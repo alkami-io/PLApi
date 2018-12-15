@@ -1,0 +1,15 @@
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/alkami/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20181215-86143-hz8bob.rb extconf.rb
+creating Makefile
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20181215-86143-1lv4mhv/bootsnap

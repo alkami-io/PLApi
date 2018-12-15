@@ -30,3 +30,7 @@
 .idea/
 .idea
 
+# Ignore RSpec stuff
+.rspec
+
+
