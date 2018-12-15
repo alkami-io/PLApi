@@ -1,0 +1,15 @@
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/alkami/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20181215-86143-dp75i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20181215-86143-1n7bm1f/bindex
