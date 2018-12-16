@@ -20,7 +20,23 @@ module ApiFootball
       end
 
       def fixtures_by_league(league_id)
+        response = api_connection.get("fixtures/league/#{league_id}")
+        JSON.parse(response.body)
+      end
 
+      def fixtures_by_id(fixture_id)
+        response = api_connection.get("fixtures/id/#{fixture_id}")
+        JSON.parse.(response.body)
+      end
+
+      def fixtures_by_team(team_id)
+        response = api_connection.get("fixtures/team/#{team_id}")
+        JSON.parse(response.body)
+      end
+
+      def fixtures_h2h(team_one_id, team_two_id)
+        response = api_connection.get("fixtures/h2h/#{team_one_id}/#{team_two_id}")
+        JSON.parse(response.body)
       end
     end
   end
