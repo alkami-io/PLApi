@@ -1,16 +1,16 @@
-require 'api_football_api/api_football_connection_service'
+require 'api_football_api/connection_service'
 
 module ApiFootball
-  module PlayerService
-    class Players
+  module StandingService
+    class Standings
       attr_reader :api_connection
 
       def initialize
         @api_connection = ApiFootball::ConnectionService.api_connection
       end
 
-      def players_by_season_team(season, team_id)
-        response = api_connection.get("players/#{season}/#{team_id}")
+      def standings_by_league(league_id)
+        response = api_connection.get("standings/#{league_id}")
         JSON.parse(response.body)
       end
     end

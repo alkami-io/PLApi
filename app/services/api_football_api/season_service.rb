@@ -1,4 +1,4 @@
-require 'api_football_api/api_football_connection_service'
+require 'api_football_api/connection_service'
 
 module ApiFootball
   module SeasonService
