@@ -34,7 +34,7 @@
 .rspec
 
 # Ignore .env file
-.env
+/.env
 
 
 
