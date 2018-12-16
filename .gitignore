@@ -33,4 +33,8 @@
 # Ignore RSpec stuff
 .rspec
 
+# Ignore .env file
+.env
+
+
 
