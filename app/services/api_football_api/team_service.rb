@@ -9,8 +9,13 @@ module ApiFootball
         @api_connection = ApiFootball::ConnectionService.api_connection
       end
 
-      def premier_league_teams
-        response = api_connection.get('teams/league/2')
+      def teams_by_league(league_id)
+        response = api_connection.get("teams/league/#{league_id}")
+        JSON.parse(response.body)
+      end
+
+      def teams_by_id(team_id)
+        response = api_connection.get("teams/team/#{team_id}")
         JSON.parse(response.body)
       end
     end

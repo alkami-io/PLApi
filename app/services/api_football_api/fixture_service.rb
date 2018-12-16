@@ -26,7 +26,7 @@ module ApiFootball
 
       def fixtures_by_id(fixture_id)
         response = api_connection.get("fixtures/id/#{fixture_id}")
-        JSON.parse.(response.body)
+        JSON.parse(response.body)
       end
 
       def fixtures_by_team(team_id)
