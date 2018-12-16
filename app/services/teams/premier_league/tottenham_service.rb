@@ -1,6 +1,6 @@
 module Teams
   module PremierLeague
-    class Tottenham
+    class TottenhamService
       def self.team_details
         conn = ApiFootballApiService.new
         response = conn.connection.get('teams/team/47')
