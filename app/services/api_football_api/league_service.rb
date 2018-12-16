@@ -14,8 +14,18 @@ module ApiFootball
         JSON.parse(response.body)
       end
 
-      def premier_league
-        response = api_connection.get('leagues/league/2')
+      def league_by_id(league_id)
+        response = api_connection.get("leagues/league/#{league_id}")
+        JSON.parse(response.body)
+      end
+
+      def leagues_by_season(season)
+        response = api_connection.get("leagues/season/#{season}")
+        JSON.parse(response.body)
+      end
+
+      def leagues_by_country_season(country_name, season)
+        response = api_connection.get("leagues/country/#{country_name}/#{season}")
         JSON.parse(response.body)
       end
     end
