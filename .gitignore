@@ -36,5 +36,11 @@
 # Ignore .env file
 /.env
 
+# Ignore Spiders
+app/spiders/*
+
+# Ignore CSV Files
+/csv_files/*
+
 
 
