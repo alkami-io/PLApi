@@ -1,0 +1,15 @@
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+/Users/alkami/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20181218-16165-pejcmm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+make "DESTDIR=" clean
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+make "DESTDIR="
+compiling murmur3.c
+linking shared-object native.bundle
+
+current directory: /Users/alkami/Alkami/Projects/InternalProjects/PremierLeague/PLApi/PLApi/vendor/bundle/ruby/2.5.0/gems/murmurhash3-0.1.6/ext/murmurhash3
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 native.bundle ./.gem.20181218-16165-hsxepj
