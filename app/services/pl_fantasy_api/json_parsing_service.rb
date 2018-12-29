@@ -15,7 +15,7 @@ module PLFantasy
         raw_json.map {|element| element["id"]}
       end
 
-      # Pull individual element histories from element-summary end point.
+      # Pull individual element histories from element-summary end point and save as individual json files
       def element_histories
         api_connection = PLFantasy::ConnectionService.api_connection
         element_ids.each do |element_id|
