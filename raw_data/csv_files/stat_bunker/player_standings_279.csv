@@ -1,0 +1,632 @@
+Players,Clubs,Position,Total,Goals,A,Yellow,Yellow - Red,Red,Start,Sub,CO,Off,Pen S,Pen SV,Pen M,Pen C,OG,More
+Darren Bent,Sunderland,Forward,38,24,2,5,0,0,38,0,0,7,5,0,3,0,0,More
+Hugo Rodallega,Wigan Athletic,Forward,38,10,8,6,0,0,38,0,0,11,1,0,2,0,0,More
+Tyrone Mears,Burnley,Defender,38,0,6,7,0,0,38,0,0,0,0,0,0,0,0,More
+Roger Johnson,Birmingham City,Defender,38,0,1,8,0,0,38,0,0,0,0,0,0,0,0,More
+Brian Jensen,Burnley,Goalkeeper,38,0,1,3,0,0,38,0,0,1,0,3,1,5,0,More
+Jussi Jaaskelainen,Bolton Wanderers,Goalkeeper,38,0,0,3,0,0,38,0,0,0,0,2,0,3,0,More
+Pepe Reina,Liverpool,Goalkeeper,38,0,0,2,0,0,38,0,0,0,0,1,0,3,0,More
+Tim Howard,Everton,Goalkeeper,38,0,0,2,0,0,38,0,0,0,0,2,0,0,0,More
+Robert Green,West Ham United,Goalkeeper,38,0,0,0,0,0,38,0,0,1,0,1,0,5,1,More
+Brad Friedel,Aston Villa,Goalkeeper,38,0,0,0,0,0,38,0,0,0,0,0,0,6,0,More
+Patrice Evra,Manchester United,Defender,38,0,2,5,0,0,37,1,1,4,0,0,0,0,0,More
+Wade Elliott,Burnley,Midfielder,38,4,4,5,0,0,34,4,4,3,0,0,0,0,0,More
+Paul Scharner,Wigan Athletic,Defender,38,4,4,6,0,0,30,8,8,10,0,0,0,0,0,More
+Peter Crouch,Tottenham Hotspur,Forward,38,8,8,1,0,0,21,17,17,1,0,0,0,0,0,More
+Kevin Davies,Bolton Wanderers,Forward,37,7,6,9,0,0,37,0,0,1,1,0,0,0,1,More
+Ashley Young,Aston Villa,Midfielder,37,5,6,6,0,0,37,0,0,3,1,0,1,0,0,More
+Richard Dunne,Aston Villa,Defender,37,3,0,7,0,0,37,0,0,1,0,0,0,0,1,More
+John Terry,Chelsea,Defender,37,2,2,7,1,0,37,0,0,2,0,0,0,0,0,More
+Leighton Baines,Everton,Defender,37,1,9,2,0,0,37,0,0,0,1,0,0,0,0,More
+Stilian Petrov,Aston Villa,Midfielder,37,0,1,10,0,0,37,0,0,4,0,0,0,0,0,More
+Mark Schwarzer,Fulham,Goalkeeper,37,0,0,0,0,0,37,0,0,0,0,0,0,2,0,More
+Jamie Carragher,Liverpool,Defender,37,0,0,7,0,1,37,0,0,2,0,0,0,0,0,More
+Barry Ferguson,Birmingham City,Midfielder,37,0,0,8,1,0,37,0,0,1,0,0,0,0,0,More
+Dirk Kuyt,Liverpool,Forward,37,9,4,3,0,0,35,3,2,13,1,0,0,0,0,More
+Matthew Taylor,Bolton Wanderers,Midfielder,37,8,2,2,0,0,29,9,8,8,3,0,0,0,0,More
+Frank Lampard,Chelsea,Midfielder,36,22,17,0,0,0,36,0,0,2,10,0,1,0,0,More
+James Milner,Aston Villa,Midfielder,36,7,12,5,0,0,36,1,0,3,3,0,1,0,1,More
+Carlos Cuellar,Aston Villa,Defender,36,2,2,7,1,0,36,1,0,0,0,0,0,0,0,More
+Joe Hart,Birmingham City,Goalkeeper,36,0,0,3,0,0,36,0,0,0,0,0,0,2,0,More
+Gabriel Agbonlahor,Aston Villa,Forward,36,13,5,3,0,0,35,1,1,7,0,0,0,0,0,More
+Charles N'Zogbia,Wigan Athletic,Midfielder,36,5,6,7,0,0,35,1,1,7,0,0,0,0,0,More
+Fabrice Muamba,Bolton Wanderers,Midfielder,36,1,0,11,0,0,35,2,1,12,0,0,0,0,0,More
+Rory Delap,Stoke City,Midfielder,36,0,1,3,0,0,34,4,2,9,0,0,0,0,0,More
+Dean Whitehead,Stoke City,Midfielder,36,0,0,8,1,0,33,3,3,4,0,0,0,0,0,More
+James McFadden,Birmingham City,Forward,36,5,3,5,0,0,32,4,4,15,2,0,1,0,0,More
+Steven Fletcher,Burnley,Forward,35,8,4,1,0,0,35,0,0,18,0,0,0,0,0,More
+Titus Bramble,Wigan Athletic,Defender,35,2,0,10,0,0,35,0,0,1,0,0,0,0,0,More
+Maynor Figueroa,Wigan Athletic,Defender,35,1,1,6,0,0,35,1,0,1,0,0,0,0,0,More
+Andy Dawson,Hull City,Defender,35,1,0,7,0,0,35,1,0,3,0,0,0,0,1,More
+Zatyiah Knight,Bolton Wanderers,Defender,35,1,0,1,0,0,35,3,0,0,0,0,0,0,1,More
+Stephen Carr,Birmingham City,Defender,35,0,2,10,0,0,35,0,0,2,0,0,0,0,0,More
+Paul Robinson,Blackburn Rovers,Goalkeeper,35,0,1,1,0,0,35,0,0,1,0,0,0,2,0,More
+Shay Given,Manchester City,Goalkeeper,35,0,0,2,0,0,35,0,0,1,0,2,0,5,0,More
+Lee Bowyer,Birmingham City,Midfielder,35,5,2,8,0,0,34,1,1,3,0,0,0,0,0,More
+Carlos Tevez,Manchester City,Forward,35,23,6,6,0,0,32,3,3,11,5,0,0,0,0,More
+ Lucas Leiva,Liverpool,Midfielder,35,0,2,9,0,0,32,6,3,7,0,0,0,0,1,More
+Bacary Sagna,Arsenal,Defender,35,0,5,3,0,0,31,7,4,4,0,0,0,0,0,More
+Ricardo Fuller,Stoke City,Forward,35,3,4,8,0,0,22,13,13,16,0,0,0,0,0,More
+Gareth Barry,Manchester City,Midfielder,34,2,6,4,0,0,34,1,0,3,0,0,0,0,0,More
+Mohamed Diame,Wigan Athletic,Midfielder,34,1,1,5,0,0,34,0,0,10,0,0,0,0,0,More
+Petr Cech,Chelsea,Goalkeeper,34,0,1,0,0,1,34,0,0,0,0,1,0,3,1,More
+Karl Henry,Wolverhampton Wanderers,Midfielder,34,0,0,6,0,1,34,1,0,0,0,0,0,0,0,More
+Aaron Hughes,Fulham,Defender,34,0,0,2,0,0,34,1,0,0,0,0,0,0,0,More
+Kevin Doyle,Wolverhampton Wanderers,Forward,34,9,1,4,0,0,33,1,1,9,1,0,0,0,0,More
+Matthew Etherington,Stoke City,Midfielder,34,5,9,1,0,0,33,2,1,7,1,0,0,0,0,More
+Gael Givet,Blackburn Rovers,Defender,34,2,2,3,0,0,33,1,1,5,0,0,0,0,1,More
+Jermain Defoe,Tottenham Hotspur,Forward,34,18,4,3,0,1,31,3,3,18,1,0,1,0,0,More
+Javier Mascherano,Liverpool,Midfielder,34,0,0,10,1,1,31,4,3,2,0,0,0,0,0,More
+Matt Jarvis,Wolverhampton Wanderers,Midfielder,34,3,4,3,0,0,30,6,4,16,0,0,0,0,0,More
+Nigel De Jong,Manchester City,Midfielder,34,0,0,7,0,0,30,6,4,6,0,0,0,0,0,More
+Luis Antonio Valencia,Manchester United,Defender,34,5,8,3,0,0,29,7,5,6,0,0,0,0,0,More
+Chung-Yong Lee,Bolton Wanderers,Midfielder,34,4,5,4,0,0,27,11,7,13,0,0,0,0,0,More
+Frederic Piquionne,Portsmouth,Forward,34,5,2,2,0,0,26,9,8,12,0,0,0,0,0,More
+Chris Eagles,Burnley,Midfielder,34,2,3,2,0,0,20,17,14,9,0,0,0,0,0,More
+Tim Cahill,Everton,Midfielder,33,8,5,8,0,0,33,0,0,6,0,0,0,0,0,More
+Thomas Vermaelen,Arsenal,Defender,33,7,1,3,0,1,33,0,0,2,0,0,0,0,1,More
+Graham Alexander,Burnley,Defender,33,7,1,2,0,0,33,0,0,10,6,0,0,0,0,More
+Jody Craddock,Wolverhampton Wanderers,Defender,33,5,2,2,0,0,33,2,0,0,0,0,0,0,1,More
+Matthew Upson,West Ham United,Defender,33,3,0,3,0,0,33,0,0,1,0,0,0,0,0,More
+Tom Huddlestone,Tottenham Hotspur,Midfielder,33,2,3,8,0,0,33,1,0,5,0,0,0,0,0,More
+Steven N'Zonzi,Blackburn Rovers,Midfielder,33,2,0,6,0,0,33,2,0,5,0,0,0,0,0,More
+Michael Turner,Sunderland,Defender,33,2,0,9,1,1,33,0,0,2,0,0,0,0,0,More
+Thomas Sorensen,Stoke City,Goalkeeper,33,0,0,0,0,0,33,0,0,2,0,3,0,2,0,More
+Steven Gerrard,Liverpool,Midfielder,33,9,7,6,0,0,32,1,1,6,2,0,0,0,0,More
+Julian Faubert,West Ham United,Midfielder,33,1,3,6,0,0,32,4,1,2,0,0,0,0,0,More
+Nicolas Anelka,Chelsea,Forward,33,11,7,0,0,0,31,4,2,14,0,0,0,0,0,More
+Wilson Palacios,Tottenham Hotspur,Midfielder,33,1,1,8,0,0,29,7,4,7,0,0,0,0,0,More
+Morten Gamst Pedersen,Blackburn Rovers,Midfielder,33,3,6,5,0,0,27,9,6,6,0,0,0,0,0,More
+Louis Saha,Everton,Forward,33,13,2,2,0,0,26,7,7,18,2,0,2,0,0,More
+Florent Malouda,Chelsea,Midfielder,33,12,9,4,1,0,26,11,7,6,0,0,0,0,0,More
+Sebastian Larsson,Birmingham City,Midfielder,33,4,3,3,0,0,26,11,7,11,0,0,0,0,0,More
+Glenn Whelan,Stoke City,Midfielder,33,2,2,9,0,0,25,11,8,3,0,0,0,0,0,More
+Dimitar Berbatov,Manchester United,Forward,33,12,6,1,0,0,24,11,9,12,0,0,0,0,0,More
+Jordan Henderson,Sunderland,Midfielder,33,1,5,3,0,0,23,11,10,6,0,0,0,0,0,More
+John Carew,Aston Villa,Forward,33,10,4,2,0,0,22,12,11,15,1,0,1,0,0,More
+Dave Nugent,Burnley,Forward,33,6,2,0,0,0,20,14,13,11,0,0,0,0,0,More
+Keith Fahey,Birmingham City,Midfielder,33,0,2,2,0,0,18,16,15,7,0,0,0,0,0,More
+Wayne Rooney,Manchester United,Forward,32,26,3,6,0,0,32,0,0,10,4,0,1,0,0,More
+Cameron Jerome,Birmingham City,Forward,32,11,3,5,0,0,32,0,0,12,0,0,0,0,0,More
+Brede Hangeland,Fulham,Defender,32,1,0,2,0,0,32,0,0,2,0,0,0,0,0,More
+Christophe Berra,Wolverhampton Wanderers,Defender,32,0,3,4,0,0,32,4,0,1,0,0,0,0,0,More
+Sylvain Distin,Portsmouth,Defender,32,0,1,2,0,0,32,0,0,1,0,0,0,0,0,More
+Mario Melchiot,Wigan Athletic,Defender,32,0,1,2,0,0,32,2,0,2,0,0,0,0,0,More
+Christopher Kirkland,Wigan Athletic,Goalkeeper,32,0,0,0,0,0,32,0,0,2,0,0,0,4,0,More
+Didier Drogba,Chelsea,Forward,32,29,10,6,0,0,31,2,1,7,1,0,0,0,0,More
+Damien Duff,Fulham,Midfielder,32,6,5,2,0,0,30,2,2,10,0,0,0,0,0,More
+Robert Huth,Stoke City,Defender,32,3,0,6,0,0,30,2,2,0,0,0,0,0,0,More
+Chris Baird,Fulham,Defender,32,0,1,4,0,0,29,9,3,1,0,0,0,0,2,More
+Craig Bellamy,Manchester City,Forward,32,10,8,4,1,0,26,6,6,6,0,0,0,0,0,More
+Michael Ballack,Chelsea,Midfielder,32,4,4,3,1,0,26,7,6,7,0,0,0,0,0,More
+Kenwyne Jones,Sunderland,Forward,32,9,3,1,0,1,24,8,8,10,1,0,0,0,0,More
+Keith Andrews,Blackburn Rovers,Midfielder,32,1,0,4,0,0,22,14,10,5,1,0,0,0,0,More
+Jason Scotland,Wigan Athletic,Forward,32,1,2,1,0,0,14,24,18,7,0,0,0,0,0,More
+Kolo Toure,Manchester City,Defender,31,1,0,1,0,0,31,3,0,3,0,0,0,0,0,More
+Stephen Warnock,Aston Villa,Defender,31,0,3,4,0,0,31,1,0,4,0,0,0,0,0,More
+Heurelho Gomes,Tottenham Hotspur,Goalkeeper,31,0,0,2,0,0,31,4,0,1,0,3,0,6,0,More
+Liam Ridgewell,Birmingham City,Defender,31,3,0,4,0,0,30,2,1,0,0,0,0,0,0,More
+Scott Parker,West Ham United,Midfielder,31,2,3,9,1,0,30,1,1,5,0,0,0,0,0,More
+Abdoulaye Faye,Stoke City,Defender,31,2,0,5,1,1,30,2,1,5,0,0,0,0,0,More
+Steed Malbranque,Sunderland,Midfielder,31,0,3,3,0,0,30,5,1,26,0,0,0,0,0,More
+Emiliano Insua,Liverpool,Defender,31,0,3,1,0,0,30,3,1,2,0,0,0,0,0,More
+John Heitinga,Everton,Defender,31,0,4,8,0,0,29,2,2,2,0,0,0,0,0,More
+Lorik Cana,Sunderland,Midfielder,31,0,1,10,1,0,29,2,2,2,0,0,0,0,0,More
+Radoslav Kovac,West Ham United,Midfielder,31,2,2,8,1,0,27,8,4,10,0,0,0,0,0,More
+Hendry Thomas,Wigan Athletic,Midfielder,31,0,0,8,1,0,27,6,4,9,0,0,0,0,0,More
+Robbie Blake,Burnley,Forward,31,2,4,1,0,0,20,18,11,17,0,0,0,0,0,More
+Fraizer Campbell,Sunderland,Forward,31,4,4,3,0,0,19,17,12,4,0,0,0,0,0,More
+Jan Vennegoor of Hesselink,Hull City,Forward,31,3,2,0,0,0,17,16,14,14,0,0,0,0,0,More
+Emile Heskey,Aston Villa,Forward,31,3,2,2,0,0,16,18,15,11,0,0,0,0,0,More
+Steven Pienaar,Everton,Midfielder,30,4,4,9,1,0,30,0,0,5,0,0,0,0,0,More
+Christopher Samba,Blackburn Rovers,Defender,30,4,0,5,1,0,30,0,0,3,0,0,0,0,0,More
+Scott Dann,Birmingham City,Defender,30,0,1,4,0,0,30,0,0,0,0,0,0,0,1,More
+Darren Fletcher,Manchester United,Midfielder,30,4,7,5,1,0,29,5,1,5,0,0,0,0,0,More
+Benoit Assou-Ekotto,Tottenham Hotspur,Defender,30,1,2,5,0,0,29,2,1,5,0,0,0,0,0,More
+James Collins,Aston Villa,Defender,30,1,0,3,0,0,29,5,1,0,0,0,0,0,1,More
+Carlton Cole,West Ham United,Forward,30,10,3,2,0,0,26,4,4,6,1,0,0,0,1,More
+Andrey Arshavin,Arsenal,Forward,30,10,2,2,0,0,25,5,5,12,0,0,0,0,0,More
+Michael Carrick,Manchester United,Midfielder,30,2,1,1,0,0,22,12,8,3,0,0,1,0,0,More
+Michael Mancienne,Wolverhampton Wanderers,Defender,30,0,0,6,0,0,22,11,8,6,0,0,0,0,1,More
+Christian Benitez,Birmingham City,Forward,30,3,6,1,0,0,21,14,9,9,0,0,1,0,0,More
+Yossi Benayoun,Liverpool,Midfielder,30,6,5,1,0,0,19,12,11,16,0,0,0,0,0,More
+Shaun Wright-Phillips,Manchester City,Midfielder,30,4,8,2,0,0,19,16,11,7,0,0,0,0,0,More
+ Tuncay Sanli,Stoke City,Forward,30,4,2,2,0,0,13,22,17,9,0,0,0,0,0,More
+Gary Cahill,Bolton Wanderers,Defender,29,5,2,3,0,0,29,1,0,0,0,0,0,0,0,More
+Vedran Corluka,Tottenham Hotspur,Defender,29,1,2,2,0,0,29,1,0,3,0,0,0,0,0,More
+Manuel Almunia,Arsenal,Goalkeeper,29,0,1,1,0,0,29,2,0,0,0,2,0,4,0,More
+Kieran Richardson,Sunderland,Midfielder,29,1,1,8,1,0,28,1,1,5,0,0,0,0,0,More
+Clint Dempsey,Fulham,Forward,29,7,3,1,0,0,27,2,2,6,1,0,0,0,0,More
+Younes Kaboul,Portsmouth,Defender,29,3,0,5,1,0,27,6,2,0,0,0,0,0,1,More
+Abou Diaby,Arsenal,Midfielder,29,6,3,2,0,0,26,4,3,5,0,0,0,0,1,More
+George Boateng,Hull City,Midfielder,29,1,1,4,1,1,26,7,3,4,0,0,0,0,0,More
+Michael Dawson,Tottenham Hotspur,Defender,29,2,0,4,0,0,25,6,4,1,0,0,0,0,0,More
+Jason Roberts,Blackburn Rovers,Forward,29,5,3,1,0,0,15,18,14,9,0,0,0,0,0,More
+Marc Wilson,Portsmouth,Defender,28,0,0,2,0,0,28,4,0,3,0,0,0,0,1,More
+Ryan Shawcross,Stoke City,Defender,28,2,3,8,0,1,27,2,1,1,0,0,0,0,0,More
+Andre Amougou,Burnley,Defender,28,1,0,5,0,0,26,8,2,8,0,0,0,0,0,More
+Ryan Nelsen,Blackburn Rovers,Defender,28,4,2,3,0,0,25,4,3,2,0,0,0,0,0,More
+Jamie O'Hara,Portsmouth,Midfielder,28,2,4,8,0,0,25,5,3,4,0,0,1,0,0,More
+Branislav Ivanovic,Chelsea,Defender,28,1,5,6,0,0,25,9,3,3,0,0,0,0,0,More
+Sebastien Bassong,Tottenham Hotspur,Defender,28,1,0,2,0,0,25,12,3,3,0,0,0,0,0,More
+Danny Collins,Stoke City,Defender,28,0,1,0,0,0,25,13,3,0,0,0,0,0,0,More
+Paul Scholes,Manchester United,Midfielder,28,3,3,9,1,0,24,8,4,11,0,0,0,0,0,More
+Niko Kranjcar,Tottenham Hotspur,Midfielder,28,6,5,3,0,0,23,8,5,10,0,0,0,0,0,More
+Jozy Altidore,Hull City,Forward,28,1,4,4,0,1,16,13,12,13,0,0,0,0,0,More
+Bobby Zamora,Fulham,Forward,27,8,4,3,0,0,27,0,0,11,0,0,0,0,0,More
+Stephen Hunt,Hull City,Midfielder,27,6,5,4,0,0,27,0,0,6,1,0,0,0,0,More
+Paul Konchesky,Fulham,Defender,27,1,1,3,0,0,27,0,0,2,0,0,0,0,0,More
+Clarke Carlisle,Burnley,Defender,27,0,0,7,0,0,27,4,0,1,0,0,0,0,1,More
+Boaz Myhill,Hull City,Goalkeeper,27,0,0,1,0,0,27,9,0,0,0,1,0,3,0,More
+Francesc Fabregas,Arsenal,Midfielder,27,15,14,5,0,0,26,1,1,6,3,0,1,0,0,More
+Tamir Cohen,Bolton Wanderers,Midfielder,27,3,3,7,1,0,26,7,1,11,0,0,0,0,0,More
+Paul McShane,Hull City,Defender,27,0,0,5,0,0,26,3,1,4,0,0,0,0,0,More
+Ashley Cole,Chelsea,Defender,27,4,2,4,0,0,25,3,2,4,0,0,0,0,0,More
+Mark Noble,West Ham United,Midfielder,27,2,6,6,1,0,25,6,2,6,1,0,0,0,0,More
+Gretar Steinsson,Bolton Wanderers,Defender,27,0,2,4,0,1,25,10,2,1,0,0,0,0,0,More
+Sam Ricketts,Bolton Wanderers,Defender,27,0,1,2,1,0,25,12,2,3,0,0,0,0,1,More
+Valon Behrami,West Ham United,Midfielder,27,1,1,0,0,0,24,3,3,7,0,0,0,0,0,More
+Pablo Zabaleta,Manchester City,Defender,27,0,1,9,1,0,23,11,4,1,0,0,0,0,0,More
+Jonathan Spector,West Ham United,Defender,27,0,0,2,0,0,22,16,5,1,0,0,0,0,1,More
+Zoltan Gera,Fulham,Midfielder,27,2,3,2,0,0,19,14,8,6,0,0,0,0,0,More
+Alessandro Diamanti,West Ham United,Forward,27,7,5,5,0,0,18,13,9,7,4,0,1,0,0,More
+Ivan Klasnic,Bolton Wanderers,Forward,27,8,1,4,0,0,12,17,15,10,0,0,0,0,0,More
+William Gallas,Arsenal,Defender,26,3,0,2,0,0,26,0,0,0,0,0,0,0,0,More
+Craig Gordon,Sunderland,Goalkeeper,26,0,0,3,0,0,26,3,0,1,0,0,1,3,0,More
+Emmanuel Adebayor,Manchester City,Forward,26,14,3,1,0,0,25,2,1,5,0,0,0,0,1,More
+Leon Osman,Everton,Midfielder,26,2,1,3,0,0,25,1,1,15,0,0,0,0,1,More
+Alex Song,Arsenal,Midfielder,26,1,1,10,0,0,25,2,1,3,0,0,0,0,0,More
+El-Hadji Diouf,Blackburn Rovers,Forward,26,3,2,3,0,0,24,7,2,13,0,0,0,0,0,More
+Michael Brown,Portsmouth,Midfielder,26,2,3,5,1,0,24,4,2,5,0,0,0,0,0,More
+Samir Nasri,Arsenal,Midfielder,26,2,4,2,0,0,22,6,4,8,0,0,0,0,0,More
+Philip Bardsley,Sunderland,Defender,26,0,0,7,0,0,18,17,8,2,0,0,0,0,0,More
+Jack Rodwell,Everton,Midfielder,26,2,2,4,0,0,17,11,9,5,0,0,0,0,0,More
+ Geovanni,Hull City,Midfielder,26,3,0,4,1,0,16,17,10,8,0,0,1,0,0,More
+Kevin McDonald,Burnley,Midfielder,26,1,0,5,0,0,15,18,11,5,0,0,0,0,0,More
+Joe Cole,Chelsea,Midfielder,26,2,6,1,0,0,14,16,12,9,0,0,0,0,0,More
+Nikola Kalinic,Blackburn Rovers,Forward,26,2,1,2,0,0,14,21,12,7,0,0,0,0,0,More
+Junior Stanislas,West Ham United,Midfielder,26,3,3,3,0,0,11,24,15,5,0,0,0,0,0,More
+Danny Murphy,Fulham,Midfielder,25,5,0,5,0,0,25,3,0,7,3,0,0,0,0,More
+Marcus Hahnemann,Wolverhampton Wanderers,Goalkeeper,25,0,0,3,0,0,25,13,0,0,0,1,0,2,0,More
+David James,Portsmouth,Goalkeeper,25,0,0,3,0,0,25,0,0,2,0,1,0,4,0,More
+Glen Johnson,Liverpool,Defender,25,3,4,1,0,0,24,1,1,4,0,0,0,0,1,More
+Paul Robinson,Bolton Wanderers,Defender,25,0,2,7,0,0,24,8,1,2,0,0,0,0,0,More
+Stewart Downing,Aston Villa,Midfielder,25,2,1,0,0,0,23,3,2,5,0,0,0,0,0,More
+Kevin Foley,Wolverhampton Wanderers,Defender,25,0,1,1,0,0,23,5,2,9,0,0,0,0,0,More
+Stephen Jordan,Burnley,Defender,25,0,1,3,1,0,23,6,2,2,0,0,0,0,1,More
+Luka Modric,Tottenham Hotspur,Midfielder,25,3,4,2,0,0,21,5,4,7,0,0,0,0,0,More
+Vincent Kompany,Manchester City,Defender,25,2,2,2,0,0,21,7,4,2,0,0,0,0,0,More
+John Mikel Obi,Chelsea,Midfielder,25,0,1,3,0,0,21,6,4,10,0,0,0,0,0,More
+Andy Wilkinson,Stoke City,Defender,25,0,0,6,1,0,21,14,4,1,0,0,0,0,0,More
+Ryan Giggs,Manchester United,Midfielder,25,5,9,0,0,0,20,6,5,7,2,0,0,0,0,More
+Craig Fagan,Hull City,Forward,25,2,1,6,1,0,20,7,5,4,1,0,0,0,0,More
+George McCartney,Sunderland,Defender,25,0,0,3,0,0,20,7,5,4,0,0,0,0,0,More
+Emmanuel Eboue,Arsenal,Defender,25,1,3,4,0,0,17,15,8,10,0,0,0,0,0,More
+Johan Elmander,Bolton Wanderers,Forward,25,3,1,1,0,0,15,18,10,11,0,0,0,0,0,More
+Tomas Rosicky,Arsenal,Midfielder,25,3,4,1,0,0,14,12,11,12,0,0,0,0,0,More
+Liam Lawrence,Stoke City,Midfielder,25,1,3,0,0,0,14,23,11,7,0,0,0,0,0,More
+Steve Sidwell,Aston Villa,Midfielder,25,0,2,3,0,0,12,25,13,2,0,0,0,0,0,More
+Aiyegbeni Yakubu,Everton,Forward,25,5,4,1,0,0,9,21,16,6,0,0,1,0,0,More
+Ryan Babel,Liverpool,Forward,25,4,1,1,0,0,9,21,16,6,0,0,0,0,0,More
+Nemanja Vidic,Manchester United,Defender,24,1,0,8,1,0,24,2,0,2,0,0,0,0,0,More
+Anthony Gardner,Hull City,Defender,24,0,0,1,0,0,24,0,0,0,0,0,0,0,1,More
+Emmerson Boyce,Wigan Athletic,Defender,24,3,1,1,0,0,23,12,1,3,0,0,0,0,0,More
+Danny Higginbotham,Stoke City,Defender,24,1,1,0,0,0,23,11,1,2,0,0,0,0,1,More
+Gael Clichy,Arsenal,Defender,24,0,1,4,0,0,23,3,1,0,0,0,0,0,0,More
+Pascal Chimbonda,Blackburn Rovers,Defender,24,1,2,3,0,0,22,9,2,3,0,0,0,0,0,More
+Mamady Sidibe,Stoke City,Forward,24,2,1,0,0,0,19,6,5,13,0,0,0,0,0,More
+Anton Ferdinand,Sunderland,Defender,24,0,1,2,0,0,19,9,5,1,0,0,0,0,1,More
+Brett Emerton,Blackburn Rovers,Defender,24,0,1,2,0,0,17,13,7,7,0,0,0,0,0,More
+ Eduardo da Silva,Arsenal,Forward,24,2,6,0,0,0,13,15,11,13,0,0,0,0,0,More
+David Ngog,Liverpool,Forward,24,5,1,1,0,0,10,21,14,7,0,0,0,0,0,More
+Ronald Zubar,Wolverhampton Wanderers,Defender,23,1,2,3,0,0,23,4,0,1,0,0,0,0,1,More
+Wayne Bridge,Manchester City,Defender,23,0,0,2,0,0,23,1,0,6,0,0,0,0,0,More
+Daniel Agger,Liverpool,Defender,23,0,0,0,0,0,23,4,0,2,0,0,0,0,0,More
+Phil Neville,Everton,Midfielder,23,0,1,1,0,0,22,2,1,2,0,0,0,0,0,More
+James Tomkins,West Ham United,Defender,23,0,0,0,0,0,22,7,1,2,0,0,0,0,0,More
+Kamil Zayatte,Hull City,Defender,23,2,1,3,0,0,21,7,2,2,0,0,0,0,2,More
+Aaron Mokoena,Portsmouth,Midfielder,23,0,0,7,0,0,21,5,2,9,0,0,0,0,0,More
+David Dunn,Blackburn Rovers,Midfielder,23,9,1,7,0,0,20,5,3,9,2,0,0,0,0,More
+Marouane Fellaini,Everton,Midfielder,23,2,3,6,0,0,20,3,3,3,0,0,0,0,0,More
+ Nani,Manchester United,Midfielder,23,4,8,1,0,1,19,8,4,7,0,0,0,0,0,More
+Micah Richards,Manchester City,Defender,23,3,1,2,0,0,19,12,4,6,0,0,0,0,0,More
+Gareth Bale,Tottenham Hotspur,Midfielder,23,3,5,2,0,0,18,12,5,0,0,0,0,0,0,More
+Martin Paterson,Burnley,Forward,23,4,2,2,0,0,17,6,6,12,0,0,0,0,0,More
+Diniyar Bilyaletdinov,Everton,Midfielder,23,6,1,1,0,1,16,15,7,9,0,0,0,0,0,More
+Guillermo Franco,West Ham United,Forward,23,5,3,5,0,0,16,7,7,10,0,0,0,0,0,More
+Jonathan Greening,Fulham,Midfielder,23,1,1,5,0,0,15,20,8,5,0,0,0,0,0,More
+Nicklas Bendtner,Arsenal,Forward,23,6,5,2,0,0,13,10,10,5,0,0,0,0,0,More
+Erik Nevland,Fulham,Forward,23,3,3,2,0,0,12,20,11,7,0,0,0,0,0,More
+Theo Walcott,Arsenal,Forward,23,3,2,0,0,0,12,13,11,9,0,0,0,0,0,More
+Sylvan Ebanks-Blake,Wolverhampton Wanderers,Forward,23,2,0,2,0,0,12,20,11,6,1,0,0,0,0,More
+Salomon Kalou,Chelsea,Forward,23,5,3,2,0,0,11,21,12,10,0,0,0,0,0,More
+Jordi Gomez,Wigan Athletic,Midfielder,23,1,1,3,0,0,11,25,12,4,0,0,0,0,0,More
+Junior Hoilett,Blackburn Rovers,Forward,23,0,0,0,0,0,8,27,15,5,0,0,0,0,0,More
+Nwankwo Kanu,Portsmouth,Forward,23,2,2,0,0,0,6,22,17,3,0,0,0,0,0,More
+John Pantsil,Fulham,Defender,22,0,1,5,0,0,22,2,0,4,0,0,0,0,1,More
+ Ricardo Carvalho,Chelsea,Defender,22,0,1,4,0,0,22,5,0,5,0,0,0,0,0,More
+Tal Ben Haim,Portsmouth,Defender,22,0,0,5,0,0,21,2,1,0,0,0,0,0,0,More
+Fernando Torres,Liverpool,Forward,22,18,3,5,0,0,20,2,2,10,0,0,0,0,0,More
+Aaron Lennon,Tottenham Hotspur,Midfielder,22,3,9,1,0,0,20,2,2,5,0,0,0,0,0,More
+Kevin-Prince Boateng,Portsmouth,Midfielder,22,3,2,7,0,0,20,2,2,4,1,0,1,0,0,More
+Jack Collison,West Ham United,Midfielder,22,2,3,3,0,0,19,5,3,8,0,0,0,0,0,More
+Lee Cattermole,Sunderland,Midfielder,22,0,2,8,1,0,19,3,3,9,0,0,0,0,0,More
+Stephen Ward,Wolverhampton Wanderers,Defender,22,0,1,3,1,0,18,6,4,5,0,0,0,0,0,More
+George Elokobi,Wolverhampton Wanderers,Defender,22,0,0,2,0,0,17,15,5,2,0,0,0,0,0,More
+Stephen Ireland,Manchester City,Midfielder,22,2,2,0,0,0,16,11,6,6,0,0,0,0,0,More
+Franco Di Santo,Blackburn Rovers,Forward,22,1,1,3,0,0,15,18,7,12,0,0,0,0,0,More
+James Beattie,Stoke City,Forward,22,3,0,1,0,0,11,16,11,10,1,0,0,0,0,More
+Edwin van der Sar,Manchester United,Goalkeeper,21,0,0,0,0,0,21,0,0,0,0,0,0,0,0,More
+Steve Finnan,Portsmouth,Defender,21,0,1,2,0,0,20,4,1,4,0,0,0,0,0,More
+Martin Olsson,Blackburn Rovers,Defender,21,1,1,1,0,0,19,5,2,3,0,0,0,0,0,More
+Steven Mouyokolo,Hull City,Defender,21,1,0,1,0,0,19,11,2,1,0,0,0,0,0,More
+Andy Reid,Sunderland,Midfielder,21,2,8,2,0,0,18,4,3,5,0,0,0,0,0,More
+Michel Salgado,Blackburn Rovers,Defender,21,0,1,3,0,0,16,20,5,4,0,0,0,0,0,More
+Kevin Kilbane,Hull City,Midfielder,21,1,1,2,0,0,15,22,6,4,0,0,0,0,0,More
+Bernard Mendy,Hull City,Defender,21,0,0,5,0,1,15,10,6,3,0,0,0,0,0,More
+Ricardo Gardner,Bolton Wanderers,Midfielder,21,1,1,1,0,0,11,14,10,5,0,0,0,0,0,More
+ Denilson,Arsenal,Midfielder,20,3,1,2,0,0,19,4,1,6,0,0,0,0,0,More
+Ledley King,Tottenham Hotspur,Defender,20,2,0,0,0,0,19,1,1,5,0,0,0,0,0,More
+James McCarthy,Wigan Athletic,Midfielder,20,1,1,2,0,0,19,7,1,6,0,0,0,0,1,More
+Tony Hibbert,Everton,Defender,20,0,1,1,0,0,17,12,3,3,0,0,0,0,0,More
+David Jones,Wolverhampton Wanderers,Midfielder,20,1,2,3,0,0,16,8,4,7,0,0,0,0,0,More
+David Edwards,Wolverhampton Wanderers,Midfielder,20,1,0,3,0,0,16,6,4,8,0,0,0,0,0,More
+Robbie Keane,Tottenham Hotspur,Forward,20,6,2,1,0,0,15,9,5,12,1,0,0,0,0,More
+Dickson Etuhu,Fulham,Midfielder,20,0,0,2,0,0,14,10,6,2,0,0,0,0,0,More
+Nick Barmby,Hull City,Midfielder,20,0,0,4,0,0,6,31,14,7,0,0,0,0,0,More
+Steven Thompson,Burnley,Forward,20,4,0,1,0,0,1,37,19,1,0,0,0,0,0,More
+Boudewijn Zenden,Sunderland,Midfielder,20,2,0,1,0,0,1,24,19,0,0,0,0,0,0,More
+Aruna Dindane,Portsmouth,Forward,19,8,3,5,0,0,18,4,1,6,1,0,1,0,0,More
+Joleon Lescott,Manchester City,Defender,19,1,1,1,0,0,18,1,1,0,0,0,0,0,0,More
+Wes Brown,Manchester United,Defender,19,0,0,2,0,0,18,6,1,2,0,0,0,0,0,More
+Nadir Belhadj,Portsmouth,Defender,19,3,2,2,0,0,16,11,3,1,0,0,0,0,0,More
+Martin Skrtel,Liverpool,Defender,19,1,0,5,0,0,16,10,3,2,0,0,0,0,0,More
+Anthony Vanden Borre,Portsmouth,Defender,19,0,2,2,1,0,15,11,4,2,0,0,0,0,1,More
+ Deco,Chelsea,Midfielder,19,2,2,4,0,0,14,10,5,6,0,0,0,0,0,More
+Nenad Milijas,Wolverhampton Wanderers,Midfielder,19,2,3,1,0,0,12,24,7,10,0,0,0,0,0,More
+Alan Hutton,Sunderland,Defender,19,0,1,3,0,1,12,22,7,0,0,0,0,0,0,More
+Seyi Olofinjana,Hull City,Midfielder,19,1,0,3,0,0,11,18,8,1,0,0,0,0,0,More
+Benni McCarthy,Blackburn Rovers,Forward,19,1,3,1,0,0,9,20,10,6,0,0,0,0,0,More
+Jermaine Jenas,Tottenham Hotspur,Midfielder,19,1,2,6,0,0,9,16,10,1,0,0,0,0,0,More
+Roque Santa Cruz,Manchester City,Forward,19,3,0,1,0,0,6,21,13,4,0,0,0,0,0,More
+Michael Owen,Manchester United,Forward,19,3,0,0,0,0,5,22,14,4,0,0,0,0,0,More
+Kevin Phillips,Birmingham City,Forward,19,4,0,0,0,0,2,29,17,1,0,0,0,0,0,More
+Jonny Evans,Manchester United,Defender,18,0,0,2,0,0,18,8,0,2,0,0,0,0,0,More
+Hassan Yebda,Portsmouth,Midfielder,18,2,0,2,0,0,15,7,3,7,1,0,0,0,0,More
+Hayden Mullins,Portsmouth,Midfielder,18,0,0,3,0,0,15,17,3,3,0,0,0,0,0,More
+Richard Garcia,Hull City,Midfielder,18,0,1,1,0,0,14,8,4,10,0,0,0,0,1,More
+Dave Kitson,Stoke City,Forward,18,3,1,1,0,0,10,12,8,10,0,0,0,0,0,More
+John Utaka,Portsmouth,Midfielder,18,1,2,1,0,0,10,13,8,2,0,0,0,0,0,More
+Alberto Aquilani,Liverpool,Midfielder,18,1,4,0,0,0,9,16,9,7,0,0,0,0,0,More
+Aaron Ramsey,Arsenal,Midfielder,18,3,3,0,0,0,7,18,11,3,0,0,0,0,0,More
+Scott Sinclair,Wigan Athletic,Forward,18,1,0,0,0,0,1,35,17,0,0,0,0,0,0,More
+Hermann Hreidarsson,Portsmouth,Defender,17,1,0,2,0,0,17,1,0,3,0,0,0,0,0,More
+Gary Neville,Manchester United,Defender,17,0,1,3,0,0,15,9,2,2,0,0,0,0,0,More
+Maxi Rodriguez,Liverpool,Midfielder,17,1,3,1,0,0,14,3,3,4,0,0,0,0,0,More
+Joseph Yobo,Everton,Defender,17,1,0,2,0,0,14,11,3,2,0,0,0,0,1,More
+Simon Davies,Fulham,Midfielder,17,0,2,1,0,0,12,6,5,5,0,0,0,0,0,More
+Ji Sung Park,Manchester United,Midfielder,17,3,1,0,0,0,10,16,7,7,0,0,0,0,0,More
+Yuri Zhirkov,Chelsea,Midfielder,17,0,2,4,0,0,10,18,7,5,0,0,0,0,0,More
+Mark Davies,Bolton Wanderers,Midfielder,17,0,0,1,0,0,5,24,12,4,0,0,0,0,0,More
+Danny Webber,Portsmouth,Forward,17,1,0,1,0,0,4,18,13,3,0,0,0,0,0,More
+Gary Caldwell,Wigan Athletic,Defender,16,2,0,3,0,2,16,0,0,0,0,0,0,0,0,More
+Herita N'Kongolo Ilunga,West Ham United,Defender,16,0,0,2,0,0,16,4,0,5,0,0,0,0,0,More
+Dean Marney,Hull City,Midfielder,16,1,2,4,0,0,15,3,1,7,0,0,0,0,0,More
+Marton Fulop,Sunderland,Goalkeeper,16,0,0,0,0,0,15,9,1,0,0,0,0,2,0,More
+Robin van Persie,Arsenal,Forward,16,9,6,3,0,0,14,2,2,3,0,0,0,0,0,More
+Adam Johnson,Manchester City,Midfielder,16,1,6,1,0,0,14,2,2,10,0,0,0,0,0,More
+John Mensah,Sunderland,Defender,16,1,0,4,0,0,14,4,2,9,0,0,0,0,1,More
+Luke Young,Aston Villa,Defender,16,0,0,4,0,0,14,15,2,2,0,0,0,0,0,More
+ Alex Costa,Chelsea,Defender,16,1,0,2,0,0,13,10,3,0,0,0,0,0,0,More
+Tommy Smith,Portsmouth,Forward,16,1,1,0,0,0,12,7,4,9,0,0,0,0,0,More
+Richard Stearman,Wolverhampton Wanderers,Defender,16,1,0,5,1,0,12,10,4,1,0,0,0,0,0,More
+Paulo da Silva,Sunderland,Defender,16,0,1,1,0,0,12,23,4,3,0,0,0,0,0,More
+Salif Diao,Stoke City,Midfielder,16,1,0,7,0,0,11,9,5,6,0,0,0,0,0,More
+Roman Pavlyuchenko,Tottenham Hotspur,Forward,16,5,2,1,0,0,8,21,8,7,0,0,0,0,0,More
+Martin Petrov,Manchester City,Forward,16,4,2,0,0,0,8,15,8,5,0,0,0,0,0,More
+Leon Cort,Stoke City,Defender,15,0,1,0,0,0,15,12,0,1,0,0,0,0,0,More
+Jack Wilshere,Bolton Wanderers,Midfielder,15,1,1,3,0,0,13,12,2,8,0,0,0,0,0,More
+Manuel Da Costa,West Ham United,Defender,15,2,0,0,0,0,12,18,3,0,0,0,0,0,0,More
+John O'Shea,Manchester United,Defender,15,1,1,0,0,0,12,5,3,1,0,0,0,0,0,More
+Greg Halford,Wolverhampton Wanderers,Defender,15,0,0,2,0,0,12,8,3,6,0,0,0,0,0,More
+David Bentley,Tottenham Hotspur,Midfielder,15,2,1,1,0,0,11,17,4,4,0,0,0,0,0,More
+Vincenzo Grella,Blackburn Rovers,Midfielder,15,0,0,2,1,0,10,11,5,2,0,0,0,0,0,More
+Darron Gibson,Manchester United,Midfielder,15,2,2,2,0,0,6,16,9,4,0,0,0,0,0,More
+ Jo,Everton,Forward,15,0,2,0,0,0,6,9,9,5,0,0,0,0,0,More
+Chris Iwelumo,Wolverhampton Wanderers,Forward,15,0,0,0,0,0,2,16,13,1,0,0,0,0,0,More
+Jimmy Bullard,Hull City,Midfielder,14,5,1,0,0,0,13,1,1,3,4,0,1,0,0,More
+Michael Essien,Chelsea,Midfielder,14,3,0,2,0,0,13,2,1,0,0,0,0,0,0,More
+Danny Fox,Burnley,Defender,14,1,1,3,0,0,13,1,1,3,0,0,0,0,0,More
+Sotiris Kyrgiakos,Liverpool,Defender,14,1,0,1,0,1,13,14,1,0,0,0,0,0,0,More
+ Anderson,Manchester United,Midfielder,14,1,2,1,0,0,10,11,4,7,0,0,0,0,0,More
+Craig Gardner,Birmingham City,Midfielder,14,1,2,4,0,0,10,15,4,3,0,0,0,0,0,More
+ Fabio Aurelio,Liverpool,Defender,14,0,2,1,0,0,8,9,6,4,0,0,0,0,0,More
+Adlene Guedioura,Wolverhampton Wanderers,Midfielder,14,1,0,2,0,0,7,10,7,5,0,0,0,0,0,More
+Victor Moses,Wigan Athletic,Midfielder,14,1,3,0,0,0,2,14,12,1,0,0,0,0,0,More
+Wayne Hennessey,Wolverhampton Wanderers,Goalkeeper,13,0,1,0,0,0,13,23,0,0,0,0,0,3,0,More
+Steven Caldwell,Burnley,Defender,13,1,0,1,0,1,12,4,1,1,0,0,0,0,0,More
+Jlloyd Samuel,Bolton Wanderers,Defender,13,0,0,4,0,1,12,17,1,1,0,0,0,0,1,More
+Rio Ferdinand,Manchester United,Defender,13,0,0,0,0,0,12,2,1,0,0,0,0,0,0,More
+Mikel Arteta,Everton,Midfielder,13,6,0,3,0,0,11,2,2,3,2,0,0,0,0,More
+ Paulo Ferreira,Chelsea,Defender,13,0,0,2,0,0,11,19,2,3,0,0,0,0,0,More
+Lars Jacobsen,Blackburn Rovers,Defender,13,0,0,0,0,0,11,8,2,2,0,0,0,0,0,More
+Asmir Begovic,Portsmouth,Goalkeeper,13,0,0,0,0,0,11,21,2,0,0,0,0,5,0,More
+Patrick Vieira,Manchester City,Midfielder,13,1,2,2,0,0,8,5,5,1,0,0,0,0,0,More
+Andrew Keogh,Wolverhampton Wanderers,Forward,13,1,1,4,0,0,8,12,5,4,0,0,0,0,0,More
+Kamel Ghilas,Hull City,Forward,13,1,1,0,0,0,6,14,7,4,0,0,0,0,0,More
+Zavon Hines,West Ham United,Forward,13,1,1,3,0,0,5,10,8,2,0,0,0,0,0,More
+Vladimir Weiss,Bolton Wanderers,Forward,13,0,3,0,0,0,3,30,10,3,0,0,0,0,0,More
+Daniel Sturridge,Chelsea,Forward,13,1,0,0,0,0,2,27,11,2,0,0,0,0,0,More
+Nicky Shorey,Aston Villa,Defender,12,0,1,1,0,0,12,15,0,0,0,0,0,0,0,More
+Philip Jagielka,Everton,Defender,12,0,0,0,0,0,11,1,1,0,0,0,0,0,1,More
+Lucas Neill,Everton,Defender,12,0,2,1,0,0,10,5,2,0,0,0,0,0,0,More
+Mikael Silvestre,Arsenal,Defender,12,1,0,2,0,0,9,23,3,1,0,0,0,0,0,More
+Albert Riera,Liverpool,Midfielder,12,0,4,0,0,0,9,11,3,7,0,0,0,0,0,More
+Marcelo Moreno,Wigan Athletic,Forward,12,0,1,0,0,0,9,5,3,7,0,0,0,0,0,More
+Papa Bouba Diop,Portsmouth,Midfielder,12,0,0,1,0,0,9,8,3,6,0,0,0,0,0,More
+Chris Smalling,Fulham,Defender,12,0,0,0,0,0,9,24,3,0,0,0,0,0,2,More
+Angelos Basinas,Portsmouth,Midfielder,12,0,0,3,0,0,7,10,5,2,0,0,0,0,0,More
+Kagisho Dikgacoi,Fulham,Midfielder,12,0,0,1,0,1,7,14,5,2,0,0,0,0,0,More
+Bjorn Helge Riise,Fulham,Midfielder,12,0,0,0,0,0,5,26,7,3,0,0,0,0,0,More
+Matt Duke,Hull City,Goalkeeper,11,0,0,1,0,0,11,22,0,0,0,0,0,4,0,More
+Tom Cairney,Hull City,Midfielder,11,1,0,1,0,0,10,9,1,2,0,0,0,0,0,More
+Sol Campbell,Arsenal,Defender,11,0,0,3,0,0,10,4,1,0,0,0,0,0,0,More
+Michael Duff,Burnley,Defender,11,0,0,5,0,0,10,20,1,1,0,0,0,0,0,More
+Jack Cork,Burnley,Midfielder,11,1,3,1,0,0,8,6,3,2,0,0,0,0,0,More
+ Ilan,West Ham United,Forward,11,4,0,0,0,0,6,9,5,4,0,0,0,0,0,More
+Luis Jimenez,West Ham United,Midfielder,11,1,3,3,0,0,6,10,5,4,1,0,0,0,0,More
+Victor Anichebe,Everton,Forward,11,1,1,1,0,0,6,5,5,6,0,0,0,0,0,More
+Gavin McCann,Bolton Wanderers,Midfielder,11,0,0,4,0,0,5,8,6,2,0,0,0,0,0,More
+Juliano Belletti,Chelsea,Defender,11,0,1,1,0,1,4,16,7,1,0,0,0,0,0,More
+Dan Gosling,Everton,Midfielder,11,2,0,0,0,0,3,18,8,2,0,0,0,0,0,More
+Stefano Okaka,Fulham,Forward,11,2,0,1,0,0,3,12,8,3,0,0,0,0,0,More
+Eidur Gudjohnsen,Tottenham Hotspur,Forward,11,1,0,0,0,0,3,11,8,2,0,0,0,0,0,More
+Carlos Vela,Arsenal,Forward,11,1,0,0,0,0,1,19,10,1,0,0,0,0,0,More
+ Ricardo Rocha,Portsmouth,Defender,10,0,0,1,1,1,10,2,0,3,0,0,0,0,0,More
+Richard Hughes,Portsmouth,Midfielder,10,0,0,5,0,0,9,13,1,4,0,0,0,0,1,More
+David Meyler,Sunderland,Midfielder,10,0,0,4,0,1,9,7,1,3,0,0,0,0,0,More
+Daniel Gabbidon,West Ham United,Defender,10,0,0,0,0,0,8,12,2,1,0,0,0,0,0,More
+Landon Donovan,Everton,Forward,10,2,3,1,0,0,7,3,3,4,0,0,0,0,0,More
+Nyron Nosworthy,Sunderland,Defender,10,0,0,3,0,0,7,14,3,1,0,0,0,0,0,More
+ Robinho,Manchester City,Forward,10,0,3,0,0,0,6,6,4,7,0,0,0,0,0,More
+ Silvinho,Manchester City,Defender,10,0,0,2,0,0,6,21,4,3,0,0,0,0,0,More
+Nigel Reo-Coker,Aston Villa,Midfielder,10,0,0,1,0,0,6,18,4,5,0,0,0,0,0,More
+Nedum Onuoha,Manchester City,Defender,10,1,1,0,0,0,5,20,5,0,0,0,0,0,0,More
+Garry O'Connor,Birmingham City,Forward,10,1,0,2,0,0,5,5,5,2,0,0,0,0,0,More
+Kieron Dyer,West Ham United,Midfielder,10,0,1,0,0,0,4,6,6,4,0,0,0,0,0,More
+David Elm,Fulham,Forward,10,1,1,0,0,0,3,9,7,2,0,0,0,0,0,More
+Quincy Owusu-Abeyie,Portsmouth,Forward,10,0,1,0,0,0,3,8,7,2,0,0,0,0,0,More
+Benjani Mwaruwari,Sunderland,Forward,10,0,3,0,0,0,2,14,8,2,0,0,0,0,0,More
+Johannes Gudjonsson,Burnley,Midfielder,10,0,0,1,0,0,1,21,9,0,0,0,0,0,0,More
+Ibrahima Sonko,Hull City,Defender,9,0,0,0,0,0,9,1,0,0,0,0,0,0,0,More
+Armand Traore,Arsenal,Defender,9,0,0,2,0,0,9,12,0,2,0,0,0,0,0,More
+Ben Foster,Manchester United,Goalkeeper,9,0,0,0,0,0,9,12,0,0,0,0,0,0,0,More
+Javier Garrido,Manchester City,Defender,9,1,0,1,0,0,7,8,2,2,0,0,0,0,0,More
+Phil Jones,Blackburn Rovers,Defender,9,0,0,0,0,0,7,8,2,0,0,0,0,0,0,More
+Diomansy Kamara,Fulham,Forward,9,1,0,1,0,0,5,6,4,4,0,0,0,0,0,More
+Hossam Mido,West Ham United,Forward,9,0,0,2,0,0,5,6,4,5,0,0,1,0,0,More
+ Michel,Birmingham City,Midfielder,9,0,1,1,0,0,3,14,6,3,0,0,0,0,0,More
+Michael Kightly,Wolverhampton Wanderers,Midfielder,9,0,0,3,0,0,3,6,6,3,0,0,0,0,0,More
+Nathan Delfouneso,Aston Villa,Forward,9,1,0,0,0,0,0,25,9,0,0,0,0,0,0,More
+Rafael Da Silva,Manchester United,Defender,8,1,1,2,0,0,8,8,0,2,0,0,0,0,0,More
+Jose Bosingwa,Chelsea,Defender,8,0,1,0,0,0,8,0,0,4,0,0,0,0,0,More
+Tomasz Kuszczak,Manchester United,Goalkeeper,8,0,0,0,0,0,8,24,0,0,0,0,0,2,0,More
+Caleb Folan,Hull City,Forward,8,2,0,1,0,0,7,2,1,3,0,0,0,0,0,More
+Andrew Johnson,Fulham,Forward,8,0,1,0,0,0,7,2,1,3,0,0,0,0,0,More
+Stephen Kelly,Fulham,Defender,8,0,0,1,0,0,7,16,1,3,0,0,0,0,0,More
+Segundo Castillo,Wolverhampton Wanderers,Midfielder,8,0,0,1,0,0,7,7,1,4,0,0,0,0,0,More
+Jason Koumas,Wigan Athletic,Midfielder,8,1,0,0,0,0,6,12,2,6,0,0,0,0,0,More
+Stuart Parnaby,Birmingham City,Defender,8,0,0,2,0,0,6,16,2,2,0,0,0,0,0,More
+Gregory Vignal,Birmingham City,Defender,8,0,0,3,0,0,6,22,2,3,0,0,0,0,0,More
+Fabian Delph,Aston Villa,Midfielder,8,0,0,3,0,0,4,26,4,4,0,0,0,0,0,More
+Frank Nouble,West Ham United,Forward,8,0,0,0,0,0,3,15,5,3,0,0,0,0,0,More
+Chris Basham,Bolton Wanderers,Defender,8,0,1,0,0,0,2,10,6,1,0,0,0,0,0,More
+Stefan Maierhofer,Wolverhampton Wanderers,Forward,8,1,0,1,1,0,1,14,7,1,0,0,0,0,0,More
+Andriy Voronin,Liverpool,Forward,8,0,2,0,0,0,1,8,7,0,0,0,0,0,0,More
+James Vaughan,Everton,Forward,8,1,0,0,0,0,0,13,8,0,0,0,0,0,0,More
+Chris McCann,Burnley,Midfielder,7,0,0,0,0,0,7,0,0,2,0,0,0,0,0,More
+Matthew Kilgallon,Sunderland,Defender,7,0,0,0,0,0,6,11,1,0,0,0,0,0,0,More
+Carlo Cudicini,Tottenham Hotspur,Goalkeeper,7,0,0,0,0,0,6,4,1,0,0,0,0,0,0,More
+Fabio Daprela,West Ham United,Defender,7,0,0,2,0,0,4,12,3,0,0,0,0,0,0,More
+Philipp Degen,Liverpool,Defender,7,0,0,1,0,1,3,13,4,2,0,0,0,0,0,More
+Andrew Surman,Wolverhampton Wanderers,Midfielder,7,0,0,0,0,0,3,11,4,0,0,0,0,0,0,More
+Lee Carsley,Birmingham City,Midfielder,7,0,0,1,0,0,3,18,4,4,0,0,0,0,0,More
+Danny Pugh,Stoke City,Midfielder,7,1,0,0,0,0,1,31,6,0,0,0,0,0,0,More
+Gabriel Obertan,Manchester United,Forward,7,0,0,0,0,0,1,13,6,1,0,0,0,0,0,More
+Fernando Guerrero,Burnley,Midfielder,7,0,0,0,0,0,0,18,7,0,0,0,0,0,0,More
+Franck Queudrue,Birmingham City,Defender,6,0,0,0,0,0,6,9,0,1,0,0,0,0,0,More
+Andrew O'Brien,Bolton Wanderers,Defender,6,0,0,0,0,0,6,24,0,1,0,0,0,0,0,More
+Jamie Ashdown,Portsmouth,Goalkeeper,6,0,0,0,0,0,5,25,1,0,0,0,0,0,0,More
+Habib Beye,Aston Villa,Defender,6,0,0,1,1,0,5,31,1,1,0,0,0,0,0,More
+Teemu Tainio,Birmingham City,Midfielder,6,0,0,0,0,0,5,5,1,3,0,0,0,0,0,More
+Christian Kalvenes,Burnley,Defender,6,0,0,0,0,0,3,12,3,1,0,0,0,0,0,More
+Amr Zaki,Hull City,Forward,6,0,0,0,0,0,2,5,4,2,0,0,0,0,0,More
+Vito Mannone,Arsenal,Goalkeeper,5,0,0,1,0,0,5,11,0,0,0,0,0,1,0,More
+Steven Gohouri,Wigan Athletic,Defender,5,1,0,2,0,0,4,5,1,0,0,0,0,0,0,More
+Ben Watson,Wigan Athletic,Midfielder,5,1,0,0,0,0,4,6,1,2,0,0,0,0,0,More
+Lennard Sowah,Portsmouth,Defender,5,0,0,0,0,0,3,4,2,0,0,0,0,0,0,More
+Daniel Ayala,Liverpool,Defender,5,0,0,0,0,0,2,8,3,0,0,0,0,0,0,More
+Federico Macheda,Manchester United,Forward,5,1,1,0,0,0,1,6,4,1,0,0,0,0,0,More
+Gary McSheffrey,Birmingham City,Forward,5,0,0,1,0,0,1,21,4,1,0,0,0,0,0,More
+Danny Welbeck,Manchester United,Forward,5,0,0,0,0,0,1,8,4,1,0,0,0,0,0,More
+Fabio Da Silva,Manchester United,Defender,5,0,0,0,0,0,1,15,4,0,0,0,0,0,0,More
+Mame Biram Diouf,Manchester United,Forward,5,1,0,1,0,0,0,6,5,0,0,0,0,0,0,More
+Sam Vokes,Wolverhampton Wanderers,Forward,5,0,0,0,0,0,0,14,5,0,0,0,0,0,0,More
+Vladimir Stojkovic,Wigan Athletic,Goalkeeper,4,0,0,0,0,0,4,15,0,0,0,0,0,0,0,More
+Lukasz Fabianski,Arsenal,Goalkeeper,4,0,0,1,0,0,4,22,0,0,0,0,0,0,0,More
+Jason Brown,Blackburn Rovers,Goalkeeper,4,0,0,0,0,0,3,35,1,0,0,0,0,0,0,More
+David Edgar,Burnley,Defender,4,0,0,0,0,0,2,8,2,0,0,0,0,0,0,More
+Mike Pollitt,Wigan Athletic,Goalkeeper,4,0,0,0,0,0,2,19,2,0,0,0,0,3,0,More
+Craig Eastmond,Arsenal,Defender,4,0,0,0,0,0,2,11,2,2,0,0,0,0,0,More
+Steven Reid,Blackburn Rovers,Midfielder,4,0,0,1,0,0,1,7,3,1,0,0,0,0,0,More
+Won Hee Cho,Wigan Athletic,Defender,4,0,0,0,0,0,1,15,3,0,0,0,0,0,0,More
+Fran Merida,Arsenal,Midfielder,4,1,0,0,0,0,0,10,4,0,0,0,0,0,0,More
+Daniel Pacheco,Liverpool,Forward,4,0,0,0,0,0,0,9,4,0,0,0,0,0,0,More
+Fabio Borini,Chelsea,Forward,4,0,0,0,0,0,0,10,4,0,0,0,0,0,0,More
+Sean Davis,Bolton Wanderers,Midfielder,3,0,0,3,1,0,3,1,0,0,0,0,0,0,0,More
+Jonathan Woodgate,Tottenham Hotspur,Defender,3,0,0,0,0,0,3,1,0,1,0,0,0,0,0,More
+Kieran Gibbs,Arsenal,Defender,3,0,0,1,0,0,3,10,0,0,0,0,0,0,0,More
+Mark Cullen,Hull City,Forward,3,1,0,0,0,0,2,2,1,0,0,0,0,0,0,More
+Steve Simonsen,Stoke City,Goalkeeper,3,0,0,0,0,0,2,23,1,0,0,0,0,0,0,More
+ Hilario,Chelsea,Goalkeeper,3,0,0,0,0,0,2,25,1,0,0,0,0,1,0,More
+Daryl Murphy,Sunderland,Forward,3,0,0,0,0,0,2,8,1,1,0,0,0,0,0,More
+Erik Edman,Wigan Athletic,Defender,3,0,0,1,0,0,2,7,1,1,0,0,0,0,0,More
+Jay Spearing,Liverpool,Midfielder,3,0,0,0,0,0,1,11,2,1,0,0,0,0,0,More
+Dedryk Boyata,Manchester City,Defender,3,0,0,1,0,0,1,9,2,0,0,0,0,0,0,More
+Geoffrey Mujangi Bia,Wolverhampton Wanderers,Midfielder,3,0,0,0,0,0,1,5,2,1,0,0,0,0,0,More
+Nabil El Zhar,Liverpool,Forward,3,0,0,0,0,0,1,7,2,1,0,0,0,0,0,More
+Daniel Cousin,Hull City,Forward,3,0,0,0,0,0,1,3,2,1,0,0,0,0,0,More
+Joel Ward,Portsmouth,Defender,3,0,0,0,0,0,1,9,2,0,0,0,0,0,0,More
+Seamus Coleman,Everton,Defender,3,0,1,0,0,0,0,18,3,0,0,0,0,0,0,More
+David Healy,Sunderland,Forward,3,0,0,0,0,0,0,19,3,0,0,0,0,0,0,More
+Marlon King,Wigan Athletic,Forward,3,0,0,0,0,0,0,10,3,0,0,0,0,0,0,More
+Marc Albrighton,Aston Villa,Midfielder,3,0,0,0,0,0,0,8,3,0,0,0,0,0,0,More
+Will Atkinson,Hull City,Midfielder,2,1,0,1,0,0,2,1,0,0,0,0,0,0,0,More
+Curtis Davies,Aston Villa,Defender,2,1,0,0,0,0,2,5,0,0,0,0,0,0,0,More
+Ross Turnbull,Chelsea,Goalkeeper,2,0,0,0,0,0,2,11,0,0,0,0,0,0,0,More
+Ritchie de Laet,Manchester United,Defender,2,0,0,0,0,0,2,12,0,1,0,0,0,0,0,More
+Matt Hill,Wolverhampton Wanderers,Defender,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,More
+Kyle Walker,Tottenham Hotspur,Defender,2,0,0,0,0,0,2,6,0,0,0,0,0,0,0,More
+Maik Taylor,Birmingham City,Goalkeeper,2,0,0,0,0,0,2,35,0,0,0,0,0,1,0,More
+Andrea Dossena,Liverpool,Defender,2,0,0,0,0,0,1,10,1,1,0,0,0,0,0,More
+Stuart Holden,Bolton Wanderers,Midfielder,2,0,0,0,0,0,1,1,1,0,0,0,0,0,0,More
+Philippe Senderos,Arsenal,Defender,2,0,0,0,0,0,1,13,1,0,0,0,0,0,0,More
+Liam Cooper,Hull City,Defender,2,0,0,0,0,0,1,8,1,0,0,0,0,0,0,More
+Matt Ritchie,Portsmouth,Forward,2,0,0,0,0,0,1,10,1,1,0,0,0,0,0,More
+Richard Cresswell,Stoke City,Forward,2,0,0,0,0,0,1,3,1,1,0,0,0,0,0,More
+Sam Hutchinson,Chelsea,Defender,2,0,1,0,0,0,0,5,2,0,0,0,0,0,0,More
+Jose Baxter,Everton,Forward,2,0,0,0,0,0,0,17,2,0,0,0,0,0,0,More
+Fredrik Stoor,Fulham,Defender,2,0,0,0,0,0,0,7,2,0,0,0,0,0,0,More
+Frederic Nimani,Burnley,Forward,2,0,0,1,0,0,0,3,2,0,0,0,0,0,0,More
+Nemanja Matic,Chelsea,Midfielder,2,0,0,0,0,0,0,10,2,0,0,0,0,0,0,More
+Patrick van Aanholt,Chelsea,Defender,2,0,0,0,0,0,0,4,2,0,0,0,0,0,0,More
+Ki-Hyeon Seol,Fulham,Midfielder,2,0,0,0,0,0,0,6,2,0,0,0,0,0,0,More
+Eddie Johnson,Fulham,Forward,2,0,0,1,0,0,0,5,2,0,0,0,0,0,0,More
+Jeffrey Bruma,Chelsea,Defender,2,0,0,0,0,0,0,9,2,0,0,0,0,0,0,More
+Greg Cunningham,Manchester City,Midfielder,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,More
+Daniel Ward,Bolton Wanderers,Midfielder,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,More
+Luis Boa Morte,West Ham United,Forward,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,More
+Danny Rose,Tottenham Hotspur,Defender,1,1,0,0,0,0,1,12,0,1,0,0,0,0,0,More
+Ciaran Clark,Aston Villa,Defender,1,0,0,0,0,0,1,7,0,0,0,0,0,0,0,More
+David Stockdale,Fulham,Goalkeeper,1,0,0,0,0,0,1,3,0,0,0,0,0,0,0,More
+Yildiray Basturk,Blackburn Rovers,Midfielder,1,0,0,0,0,0,1,3,0,1,0,0,0,0,0,More
+Amine Linganzi,Blackburn Rovers,Defender,1,0,0,0,0,0,1,3,0,1,0,0,0,0,0,More
+Grant Hanley,Blackburn Rovers,Defender,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,More
+George Friend,Wolverhampton Wanderers,Defender,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,More
+Ben Alnwick,Tottenham Hotspur,Goalkeeper,1,0,0,0,0,0,1,26,0,0,0,0,0,0,0,More
+Jake Livermore,Tottenham Hotspur,Midfielder,1,0,0,0,0,0,0,6,1,0,0,0,0,0,0,More
+Paul Gallagher,Blackburn Rovers,Forward,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,More
+Gael Kakuta,Chelsea,Forward,1,0,0,0,0,0,0,3,1,0,0,0,0,0,0,More
+Jay O'Shea,Birmingham City,Midfielder,1,0,0,0,0,0,0,11,1,0,0,0,0,0,0,More
+Abdisalam Ibrahim,Manchester City,Midfielder,1,0,0,0,0,0,0,5,1,0,0,0,0,0,0,More
+Kyle Naughton,Tottenham Hotspur,Defender,1,0,0,0,0,0,0,10,1,0,0,0,0,0,0,More
+Jack Colback,Sunderland,Midfielder,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,More
+Mustapha Riga,Bolton Wanderers,Midfielder,1,0,0,0,0,0,0,7,1,0,0,0,0,0,0,More
+Giovani Dos Santos,Tottenham Hotspur,Forward,1,0,0,0,0,0,0,4,1,0,0,0,0,0,0,More
+Henri Lansbury,Arsenal,Midfielder,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,More
+Diego Penny,Burnley,Goalkeeper,1,0,0,0,0,0,0,22,1,0,0,0,0,0,0,More
+Louis Moult,Stoke City,Midfielder,1,0,0,0,0,0,0,8,1,0,0,0,0,0,0,More
+Kieran Agard,Everton,Forward,1,0,0,0,0,0,0,10,1,0,0,0,0,0,0,More
+Andriy Shevchenko,Chelsea,Forward,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,More
+Grant Leadbitter,Sunderland,Midfielder,1,0,0,0,0,0,0,4,1,0,0,0,0,0,0,More
+Olivier Kapo,Wigan Athletic,Midfielder,1,0,0,0,0,0,0,6,1,0,0,0,0,0,0,More
+Jordan Spence,West Ham United,Defender,1,0,0,0,0,0,0,4,1,0,0,0,0,0,0,More
+Johan Djourou,Arsenal,Defender,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,More
+Freddie Sears,West Ham United,Forward,1,0,0,0,0,0,0,3,1,0,0,0,0,0,0,More
+Alex Nimely,Manchester City,Forward,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,More
+Gunnar Nielsen,Manchester City,Goalkeeper,1,0,0,0,0,0,0,7,1,0,0,0,0,0,0,More
+Damien Johnson,Birmingham City,Midfielder,1,0,0,0,0,0,0,7,1,0,0,0,0,0,0,More
+Martin Kelly,Liverpool,Defender,1,0,0,0,0,0,0,10,1,0,0,0,0,0,0,More
+Nathan Eccleston,Liverpool,Forward,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,More
+Michael Johnson,Manchester City,Midfielder,1,0,0,0,0,0,0,9,1,0,0,0,0,0,0,More
+Toni Kallio,Fulham,Defender,1,0,0,0,0,0,0,5,1,0,0,0,0,0,0,More
+Stephen Darby,Liverpool,Defender,1,0,0,0,0,0,0,7,1,0,0,0,0,0,0,More
+Owen Hargreaves,Manchester United,Midfielder,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,More
+Peter Kurucz,West Ham United,Goalkeeper,1,0,0,0,0,0,0,25,1,0,0,0,0,0,0,More
+Jack Robinson,Liverpool,Defender,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,More
+Jordan Mustoe,Wigan Athletic,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Gael N'Lundulu,Portsmouth,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Stuart Taylor,Manchester City,Goalkeeper,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,More
+Andrew Davies,Stoke City,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Nathan Redmond,Birmingham City,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Dean Parrett,Tottenham Hotspur,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Andranik Teymourian,Fulham,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Liam Noble,Sunderland,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Wojciech Szczesny,Arsenal,Goalkeeper,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Moustapha Salifou,Aston Villa,Midfielder,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Jay Emmanuel-Thomas,Arsenal,Midfielder,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,More
+Nadir Ciftci,Portsmouth,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Andy Griffin,Stoke City,Defender,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,More
+Antti Niemi,Portsmouth,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Trevor Carson,Sunderland,Goalkeeper,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,More
+Carl Ikeme,Wolverhampton Wanderers,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Temitope Obadeyi,Bolton Wanderers,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Ashley Sammons,Birmingham City,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Alex MacDonald,Burnley,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Oliver Gill,Manchester United,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Carlo Nash,Everton,Goalkeeper,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,More
+Russell Anderson,Sunderland,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Josh Payne,West Ham United,Defender,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,More
+Tomasz Cywka,Wigan Athletic,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Mark Bunn,Blackburn Rovers,Goalkeeper,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+James Spray,Wolverhampton Wanderers,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Richard Kingson,Wigan Athletic,Goalkeeper,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,More
+Daniel Shittu,Bolton Wanderers,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Hope Akpan,Everton,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Shane Lowry,Aston Villa,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Zoran Tosic,Manchester United,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Maceo Rigters,Blackburn Rovers,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Antonio Amaya,Wigan Athletic,Defender,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,More
+Daniel de Ridder,Wigan Athletic,Midfielder,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,More
+Marlon Pack,Portsmouth,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Michael Ball,Manchester City,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+David Murphy,Birmingham City,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Mike Williamson,Portsmouth,Defender,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,More
+Rachid Bouaouzan,Wigan Athletic,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Brad Guzan,Aston Villa,Goalkeeper,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,More
+Colin Doyle,Birmingham City,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Liam O'Brien,Portsmouth,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Marcus Bent,Birmingham City,Forward,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Dorian Dervite,Tottenham Hotspur,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Jan Sebek,Chelsea,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Martin Taylor,Birmingham City,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Carlos Edwards,Sunderland,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Damien Plessis,Liverpool,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Bondz N'Gala,West Ham United,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Rhys Taylor,Chelsea,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Marek Stech,West Ham United,Goalkeeper,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,More
+Corry Evans,Manchester United,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Pascal Zuberbuhler,Fulham,Goalkeeper,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,More
+Javan Vidal,Manchester City,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Tony Warner,Hull City,Goalkeeper,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,More
+Jordan Mutch,Birmingham City,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Diego Cavalieri,Liverpool,Goalkeeper,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,More
+David Button,Tottenham Hotspur,Goalkeeper,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Matthew Lund,Stoke City,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Conor Henderson,Arsenal,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Nicky Weaver,Burnley,Goalkeeper,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,More
+Jimmy Walker,Tottenham Hotspur,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Adam Reed,Sunderland,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Richard Eckersley,Burnley,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Andros Townsend,Tottenham Hotspur,Midfielder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Ben Amos,Manchester United,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Shkodran Mustafi,Everton,Defender,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Matthew Briggs,Fulham,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Scott Kay,Manchester City,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Adam Forshaw,Everton,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Jake Jervis,Birmingham City,Forward,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More
+Peter Halmosi,Hull City,Midfielder,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,More
+Zurab Khizanishvili,Blackburn Rovers,Defender,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Brian Easton,Burnley,Defender,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Ryan Noble,Sunderland,Forward,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Francis Coquelin,Arsenal,Midfielder,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Iain Turner,Everton,Goalkeeper,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,More
+Giovanny Espinoza,Birmingham City,Defender,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,More
+Ali Al Habsi,Bolton Wanderers,Goalkeeper,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,More
+Shane Duffy,Everton,Defender,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,More
+Michael Liddle,Sunderland,Defender,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,More
+James Wallace,Everton,Midfielder,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,More
+Amdy Faye,Stoke City,Midfielder,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,More
+Danzelle St Louis-Hamilton,Stoke City,Goalkeeper,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,More
+Peter Gulacsi,Liverpool,Goalkeeper,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,More
+Jay Rodriguez,Burnley,Forward,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,More

@@ -4,15 +4,18 @@ module PLFantasy
   module JSONParser
     class Elements
       attr_reader :raw_json
+
       def initialize
         file = File.read("#{Rails.root}/json_files/pl_fantasy_elements.json")
         @raw_json = JSON.parse(file)
       end
 
+      # Get individual element ids for use in pulling element summaries.
       def element_ids
         raw_json.map {|element| element["id"]}
       end
 
+      # Pull individual element histories from element-summary end point.
       def element_histories
         api_connection = PLFantasy::ConnectionService.api_connection
         element_ids.each do |element_id|
