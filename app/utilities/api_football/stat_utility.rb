@@ -9,7 +9,11 @@ module ApiFootball
         @api_connection = ApiFootball::ConnectionUtility::ApiConnection.new
       end
 
-      def stats_by_league_team(write, options={})
+      # Endpoint: /statistics/{league_id}/{team_id}
+      # or
+      # Endpoint: /statistics/{league_id}/{team_id}/{date}
+      # date: 2018-12-29
+      def by_league_team(write, options={})
         if options[:date].nil?
           response = api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}")
           filename = "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}"
