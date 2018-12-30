@@ -9,24 +9,38 @@ module PLFantasy
         @api_connection = PLFantasy::ConnectionUtility::ApiConnection.new
       end
 
+      # Endpoint: /bootstrap
       def bootstrap(write)
-        response = api_connection.connection.get('bootstrap')
-        filename = "bootstrap_#{DateTime.current}"
+        options = {
+          write: write,
+          response: api_connection.connection.get('bootstrap'),
+          filename: "bootstrap_#{DateTime.current}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
+        write_or_display_data(options)
       end
 
+      # Endpoint: /bootstrap-static
       def bootstrap_static(write)
-        response = api_connection.connection.get('bootstrap-static')
-        filename = "bootstrap-static_#{DateTime.current}"
+        options = {
+          write: write,
+          response: api_connection.connection.get('bootstrap-static'),
+          filename: "bootstrap-static_#{DateTime.current}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
+        write_or_display_data(options)
       end
+
+      private
 
       def write_to_json(filename, response)
         File.open("#{Rails.root}/raw_data/json_files/pl_fantasy_data/pulled_data/bootstrap/#{filename}.json","w") do |f|
           f.write(response.force_encoding("UTF-8"))
         end
+      end
+
+      def write_or_display_data(options={})
+        options[:write] == true ? write_to_json(options[:filename], options[:response].body) : JSON.parse(options[:response].body)
       end
     end
   end
