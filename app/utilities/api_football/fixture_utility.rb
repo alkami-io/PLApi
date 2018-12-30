@@ -59,8 +59,8 @@ module ApiFootball
       end
 
       # Write to JSON if we want to save the response and not have to request it again
-      def write_to_json(file_name, response)
-        File.open("#{Rails.root}/raw_data/json_files/premier_league_data/api_football/api_football_#{file_name}.json","w") do |f|
+      def write_to_json(filename, response)
+        File.open("#{Rails.root}/raw_data/json_files/premier_league_data/api_football/fixtures/#{filename}.json","w") do |f|
           f.write(response)
         end
       end
