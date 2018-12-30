@@ -9,6 +9,7 @@ module ApiFootball
         @api_connection = ApiFootball::ConnectionUtility::ApiConnection.new
       end
 
+      # Endpoint: /events/{fixture_id}
       def by_fixture(write, fixture_id)
         response = api_connection.connection.get("events/#{fixture_id}")
         filename = "events_by_fixture_#{fixture_id}_#{DateTime.current}"
