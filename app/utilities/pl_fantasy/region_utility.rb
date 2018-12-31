@@ -12,7 +12,7 @@ module PLFantasy
         @api_connection = PLFantasy::ConnectionUtility::ApiConnection.new
       end
 
-      # Endpoint: /regions
+      # Endpoint: /region
       # wod: WriteOrDisplay Pass "w" to Write to File or "d" to Display data
       def regions(wod)
         options = {
