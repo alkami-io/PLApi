@@ -19,7 +19,7 @@ module PLFantasy
           wod: wod,
           response: api_connection.connection.get("game-settings/"),
           directory: "pl_fantasy_data/pulled_data/game_settings",
-          filename: "game_settings_#{DateTime.current}"
+          filename: "game_settings_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)

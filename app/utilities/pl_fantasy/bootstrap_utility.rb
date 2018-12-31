@@ -19,7 +19,7 @@ module PLFantasy
           wod: wod,
           response: api_connection.connection.get('bootstrap'),
           directory: 'pl_fantasy_data/pulled_data/bootstrap',
-          filename: "bootstrap_#{DateTime.current}"
+          filename: "bootstrap_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)
@@ -32,7 +32,7 @@ module PLFantasy
           wod: wod,
           response: api_connection.connection.get('bootstrap-static'),
           directory: 'pl_fantasy_data/pulled_data/bootstrap_static',
-          filename: "bootstrap-static_#{DateTime.current}"
+          filename: "bootstrap-static_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)

@@ -19,7 +19,7 @@ module PLFantasy
           wod: wod,
           response: api_connection.connection.get('elements/'),
           directory: "pl_fantasy_data/pulled_data/elements",
-          filename: "elements_#{DateTime.current}"
+          filename: "elements_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)
@@ -32,7 +32,7 @@ module PLFantasy
           wod: wod,
           response: api_connection.connection.get("element-summary/#{element_id}"),
           directory: "pl_fantasy_data/pulled_data/element_summary",
-          filename: "element_summary_#{element_id}_#{DateTime.current}"
+          filename: "element_summary_#{element_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)
@@ -45,7 +45,7 @@ module PLFantasy
           wod: wod,
           response: api_connection.connection.get("element-types/"),
           directory: "pl_fantasy_data/pulled_data/element_types",
-          filename: "element_types_#{DateTime.current}"
+          filename: "element_types_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)

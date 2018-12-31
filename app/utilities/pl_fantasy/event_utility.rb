@@ -19,7 +19,7 @@ module PLFantasy
           wod: wod,
           response: api_connection.connection.get("events/"),
           directory: 'pl_fantasy_data/pulled_data/events',
-          filename: "events_#{DateTime.current}"
+          filename: "events_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)
