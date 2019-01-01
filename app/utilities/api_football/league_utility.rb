@@ -1,4 +1,5 @@
 require "#{Rails.root}/app/utilities/api_football/connection_utility.rb"
+require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module ApiFootball
   module LeagueUtility
@@ -10,44 +11,56 @@ module ApiFootball
       end
 
       # Endpoint: /leagues
-      def all_leagues(write)
-        response = api_connection.connection.get('leagues')
-        filename = "leagues_#{DateTime.current}"
+      # wod: WriteOrDisplay Pass "w" to Write to File or "d" to Display data
+      def leagues(wod)
+        options = {
+          wod: wod,
+          response: api_connection.connection.get('leagues'),
+          directory: "premier_league_data/api_football/leagues",
+          filename: "leagues_#{DateTime.current.strftime("%C%y-%m-%d")}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
+        CoreUtility::DataToJSON.write_or_display_data(options)
       end
 
       # Endpoint: /leagues/league/{league_id}
-      def by_id(write, league_id)
-        response = api_connection.connection.get("leagues/league/#{league_id}")
-        filename = "leagues_by_id_#{league_id}_#{DateTime.current}"
+      # wod: WriteOrDisplay Pass "w" to Write to File or "d" to Display data
+      def by_id(wod, league_id)
+        options = {
+          wod: wod,
+          response: api_connection.connection.get("leagues/league/#{league_id}"),
+          directory: "premier_league_data/api_football/leagues_by_id",
+          filename: "leagues_by_id_#{league_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
+        CoreUtility::DataToJSON.write_or_display_data(options)
       end
 
       # Endpoint: /leagues/season/{season}
       # Season: year
-      def by_season(write, season)
-        response = api_connection.connection.get("leagues/season/#{season}")
-        filename = "leagues_by_season_#{season}_#{DateTime.current}"
+      def by_season(wod, season)
+        options = {
+          wod: wod,
+          response: api_connection.connection.get("leagues/season/#{season}"),
+          directory: "premier_league_data/api_football/leagues_by_season",
+          filename: "leagues_by_season_#{season}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
+        CoreUtility::DataToJSON.write_or_display_data(options)
       end
 
       # Endpoint: /leagues/country/{country_name}/{season}
       # Country Name: String
       # Season: year
-      def by_country_season(write, country_name, season)
-        response = api_connection.connection.get("leagues/country/#{country_name}/#{season}")
-        filename = "leagues_by_country_season_#{country_name}_#{season}_#{DateTime.current}"
+      def by_country_season(wod, country_name, season)
+        options = {
+          wod: wod,
+          response: api_connection.connection.get("leagues/country/#{country_name}/#{season}"),
+          directory: "premier_league_data/api_football/leagues_by_country_season",
+          filename: "leagues_by_country_season_#{country_name}_#{season}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
-      end
-
-      def write_to_json(filename, response)
-        File.open("#{Rails.root}/raw_data/json_files/premier_league_data/api_football/leagues/#{filename}.json","w") do |f|
-          f.write(response)
-        end
+        CoreUtility::DataToJSON.write_or_display_data(options)
       end
     end
   end

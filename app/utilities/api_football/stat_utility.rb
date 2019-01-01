@@ -1,4 +1,5 @@
 require "#{Rails.root}/app/utilities/api_football/connection_utility.rb"
+require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module ApiFootball
   module StatUtility
@@ -13,22 +14,25 @@ module ApiFootball
       # or
       # Endpoint: /statistics/{league_id}/{team_id}/{date}
       # date: 2018-12-29
-      def by_league_team(write, options={})
+      # wod: WriteOrDisplay Pass "w" to Write to File or "d" to Display data
+      def by_league_team(wod, options={})
         if options[:date].nil?
-          response = api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}")
-          filename = "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}"
+          opts = {
+            wod: wod,
+            response: api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}"),
+            directory: "premier_league_data/api_football/stats_by_league_team",
+            filename: "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+          }
         else
-          response = api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}/#{options[:date]}")
-          filename = "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}_on_#{options[:date]}"
+          opts = {
+            wod: wod,
+            response: api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}/#{options[:date]}"),
+            directory: "premier_league_data/api_football/stats_by_league_team_date",
+            filename: "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}_on_#{options[:date]}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+          }
         end
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
-      end
-
-      def write_to_json(filename, response)
-        File.open("#{Rails.root}/raw_data/json_files/premier_league_data/api_football/stats/#{filename}.json","w") do |f|
-          f.write(response)
-        end
+        CoreUtility::DataToJSON.write_or_display_data(opts)
       end
     end
   end
