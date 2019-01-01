@@ -1,4 +1,4 @@
-require "#{Rails.root}/app/utilities/pl_fantasy/connection_utility.rb"
+require "#{Rails.root}/app/utilities/fpl/connection_utility.rb"
 require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module PLFantasy
@@ -18,7 +18,7 @@ module PLFantasy
         options = {
           wod: wod,
           response: api_connection.connection.get('elements/'),
-          directory: "pl_fantasy_data/pulled_data/elements",
+          directory: "fpl_data/pulled_data/elements",
           filename: "elements_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -31,7 +31,7 @@ module PLFantasy
         options = {
           wod: wod,
           response: api_connection.connection.get("element-summary/#{element_id}"),
-          directory: "pl_fantasy_data/pulled_data/element_summary",
+          directory: "fpl_data/pulled_data/element_summary",
           filename: "element_summary_#{element_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -44,7 +44,7 @@ module PLFantasy
         options = {
           wod: wod,
           response: api_connection.connection.get("element-types/"),
-          directory: "pl_fantasy_data/pulled_data/element_types",
+          directory: "fpl_data/pulled_data/element_types",
           filename: "element_types_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
