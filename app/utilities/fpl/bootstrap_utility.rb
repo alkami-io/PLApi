@@ -1,7 +1,7 @@
 require "#{Rails.root}/app/utilities/fpl/connection_utility.rb"
 require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
-module PLFantasy
+module FPL
   module BootstrapUtility
     class Bootstrap
       include CoreUtility::DataToJSON
@@ -9,7 +9,7 @@ module PLFantasy
       attr_reader :api_connection
 
       def initialize
-        @api_connection = PLFantasy::ConnectionUtility::ApiConnection.new
+        @api_connection = FPL::ConnectionUtility::ApiConnection.new
       end
 
       # Endpoint: /bootstrap

@@ -1,4 +1,4 @@
-module PLFantasy
+module FPL
   module ConnectionUtility
     class ApiConnection
       attr_reader :connection
