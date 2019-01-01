@@ -16,7 +16,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get('fixtures/live'),
-          directory: "premier_league_data/api_football/fixtures_live",
+          directory: "epl_data/api_football/fixtures_live",
           filename: "live_fixtures_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -30,7 +30,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("fixtures/date/#{date}"),
-          directory: "premier_league_data/api_football/fixtures_by_date",
+          directory: "epl_data/api_football/fixtures_by_date",
           filename: "fixtures_by_date_#{date}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -43,7 +43,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("fixtures/league/#{league_id}"),
-          directory: "premier_league_data/api_football/fixtures_by_league",
+          directory: "epl_data/api_football/fixtures_by_league",
           filename: "fixtures_by_league_#{league_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -56,7 +56,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("fixtures/id/#{fixture_id}"),
-          directory: "premier_league_data/api_football/fixtures_by_id",
+          directory: "epl_data/api_football/fixtures_by_id",
           filename: "fixtures_by_id_#{fixture_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -69,7 +69,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("fixtures/team/#{team_id}"),
-          directory: "premier_league_data/api_football/fixtures_by_team",
+          directory: "epl_data/api_football/fixtures_by_team",
           filename: "fixtures_by_team_#{team_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -82,7 +82,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("fixtures/h2h/#{team_one_id}/#{team_two_id}"),
-          directory: "premier_league_data/api_football/fixtures_h2h",
+          directory: "epl_data/api_football/fixtures_h2h",
           filename: "fixtures_by_h2h_#{team_one_id}_v_#{team_two_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 

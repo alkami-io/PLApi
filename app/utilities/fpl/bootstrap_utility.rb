@@ -1,4 +1,4 @@
-require "#{Rails.root}/app/utilities/pl_fantasy/connection_utility.rb"
+require "#{Rails.root}/app/utilities/fpl/connection_utility.rb"
 require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module PLFantasy
@@ -18,7 +18,7 @@ module PLFantasy
         options = {
           wod: wod,
           response: api_connection.connection.get('bootstrap'),
-          directory: 'pl_fantasy_data/pulled_data/bootstrap',
+          directory: 'fpl_data/pulled_data/bootstrap',
           filename: "bootstrap_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -31,7 +31,7 @@ module PLFantasy
         options = {
           wod: wod,
           response: api_connection.connection.get('bootstrap-static'),
-          directory: 'pl_fantasy_data/pulled_data/bootstrap_static',
+          directory: 'fpl_data/pulled_data/bootstrap_static',
           filename: "bootstrap-static_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 

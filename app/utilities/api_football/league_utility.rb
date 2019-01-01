@@ -16,7 +16,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get('leagues'),
-          directory: "premier_league_data/api_football/leagues",
+          directory: "epl_data/api_football/leagues",
           filename: "leagues_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -29,7 +29,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("leagues/league/#{league_id}"),
-          directory: "premier_league_data/api_football/leagues_by_id",
+          directory: "epl_data/api_football/leagues_by_id",
           filename: "leagues_by_id_#{league_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -42,7 +42,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("leagues/season/#{season}"),
-          directory: "premier_league_data/api_football/leagues_by_season",
+          directory: "epl_data/api_football/leagues_by_season",
           filename: "leagues_by_season_#{season}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -56,7 +56,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("leagues/country/#{country_name}/#{season}"),
-          directory: "premier_league_data/api_football/leagues_by_country_season",
+          directory: "epl_data/api_football/leagues_by_country_season",
           filename: "leagues_by_country_season_#{country_name}_#{season}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 

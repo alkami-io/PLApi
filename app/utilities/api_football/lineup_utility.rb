@@ -16,7 +16,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("lineups/#{fixture_id}"),
-          directory: "premier_league_data/api_football/lineups_by_fixture",
+          directory: "epl_data/api_football/lineups_by_fixture",
           filename: "lineups_by_fixture_#{fixture_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
