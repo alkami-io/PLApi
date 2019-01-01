@@ -1,4 +1,5 @@
 require "#{Rails.root}/app/utilities/api_football/connection_utility.rb"
+require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module ApiFootball
   module StandingUtility
@@ -10,17 +11,16 @@ module ApiFootball
       end
 
       # Endpoint: standings/{league_id}
-      def by_league(write, league_id)
-        response = api_connection.connection.get("standings/#{league_id}")
-        filename = "standings_by_league_#{league_id}_#{DateTime.current}"
+      # wod: WriteOrDisplay Pass "w" to Write to File or "d" to Display data
+      def by_league(wod, league_id)
+        options = {
+          wod: wod,
+          response: api_connection.connection.get("standings/#{league_id}"),
+          directory: "premier_league_data/api_football/standings_by_league",
+          filename: "standings_by_league_#{league_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
-      end
-
-      def write_to_json(filename, response)
-        File.open("#{Rails.root}/raw_data/json_files/premier_league_data/api_football/standings/#{filename}.json","w") do |f|
-          f.write(response)
-        end
+        CoreUtility::DataToJSON.write_or_display_data(options)
       end
     end
   end
