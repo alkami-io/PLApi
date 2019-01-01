@@ -1,4 +1,5 @@
 require "#{Rails.root}/app/utilities/api_football/connection_utility.rb"
+require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module ApiFootball
   module TeamUtility
@@ -10,25 +11,29 @@ module ApiFootball
       end
 
       # Endpoint: teams/league/{league_id}
-      def by_league(write, league_id)
-        response = api_connection.connection.get("teams/league/#{league_id}")
-        filename = "teams_by_league_#{league_id}"
+      # wod: WriteOrDisplay Pass "w" to Write to File or "d" to Display data
+      def by_league(wod, league_id)
+        options = {
+          wod: wod,
+          response: api_connection.connection.get("teams/league/#{league_id}"),
+          directory: "premier_league_data/api_football/teams_by_league",
+          filename: "teams_by_league_#{league_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
+        CoreUtility::DataToJSON.write_or_display_data(options)
       end
 
       # Endpoint: teams/team/{team_id}
-      def by_id(write, team_id)
-        response = api_connection.connection.get("teams/team/#{team_id}")
-        filename = "teams_by_team_#{team_id}"
+      # wod: WriteOrDisplay Pass "w" to Write to File or "d" to Display data
+      def by_id(wod, team_id)
+        options = {
+          wod: wod,
+          response: api_connection.connection.get("teams/team/#{team_id}"),
+          directory: "premier_league_data/api_football/teams_by_id",
+          filename: "teams_by_id_#{team_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+        }
 
-        write == true ? write_to_json(filename, response.body) : JSON.parse(response.body)
-      end
-
-      def write_to_json(filename, response)
-        File.open("#{Rails.root}/raw_data/json_files/premier_league_data/api_football/teams/#{filename}.json","w") do |f|
-          f.write(response)
-        end
+        CoreUtility::DataToJSON.write_or_display_data(options)
       end
     end
   end
