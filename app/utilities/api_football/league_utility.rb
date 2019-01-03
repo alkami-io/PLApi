@@ -84,10 +84,19 @@ module ApiFootball
       def by_country_season_injector
         by_country_season_data = by_country_season_parser
 
-
+        by_country_season_data.each do |league|
+          ApiFootballLeague.create(
+            league_id: league[:league_id].to_i,
+            name: league[:name],
+            country: league[:country],
+            season: league[:season],
+            season_start: league[:season_start],
+            season_end: league[:season_end],
+            league_logo: league[:logo],
+            standings: league[:standings]
+          )
+        end
       end
-
-
     end
   end
 end
