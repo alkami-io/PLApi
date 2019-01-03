@@ -16,7 +16,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("standings/#{league_id}"),
-          directory: "premier_league_data/api_football/standings_by_league",
+          directory: "epl_data/api_football/standings_by_league",
           filename: "standings_by_league_#{league_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 

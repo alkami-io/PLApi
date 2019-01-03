@@ -16,7 +16,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("teams/league/#{league_id}"),
-          directory: "premier_league_data/api_football/teams_by_league",
+          directory: "epl_data/api_football/teams_by_league",
           filename: "teams_by_league_#{league_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
@@ -29,7 +29,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("teams/team/#{team_id}"),
-          directory: "premier_league_data/api_football/teams_by_id",
+          directory: "epl_data/api_football/teams_by_id",
           filename: "teams_by_id_#{team_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 

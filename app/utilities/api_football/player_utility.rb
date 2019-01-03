@@ -16,7 +16,7 @@ module ApiFootball
         options = {
           wod: wod,
           response: api_connection.connection.get("players/#{season}/#{team_id}"),
-          directory: "premier_league_data/api_football/players_by_season_team",
+          directory: "epl_data/api_football/players_by_season_team",
           filename: "players_by_season_#{season}_team_#{team_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 

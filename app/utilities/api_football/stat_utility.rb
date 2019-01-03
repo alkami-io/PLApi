@@ -20,14 +20,14 @@ module ApiFootball
           opts = {
             wod: wod,
             response: api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}"),
-            directory: "premier_league_data/api_football/stats_by_league_team",
+            directory: "epl_data/api_football/stats_by_league_team",
             filename: "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}_#{DateTime.current.strftime("%C%y-%m-%d")}"
           }
         else
           opts = {
             wod: wod,
             response: api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}/#{options[:date]}"),
-            directory: "premier_league_data/api_football/stats_by_league_team_date",
+            directory: "epl_data/api_football/stats_by_league_team_date",
             filename: "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}_on_#{options[:date]}_#{DateTime.current.strftime("%C%y-%m-%d")}"
           }
         end
