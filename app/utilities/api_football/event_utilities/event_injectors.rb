@@ -12,14 +12,22 @@ module ApiFootball
         by_fixture_data.each do |fixture|
           ApiFootballFixtureEvent.create(
             fixture_id: fixture[:fixture_id].to_i,
-            elasped: fixture[:elapsed].to_i,
+            elapsed: fixture[:elapsed].to_i,
             team_name: fixture[:teamName],
-            player_first_name: fixture[:player],
-            player_last_name: fixture[:player],
+            player_first_name: parse_player_first_name(fixture[:player]),
+            player_last_name: parse_player_last_name(fixture[:player]),
             event_type: fixture[:type],
             event_detail: fixture[:detail]
           )
         end
+      end
+
+      def self.parse_player_first_name(player_name)
+        player_name.split(' ')[0]
+      end
+
+      def self.parse_player_last_name(player_name)
+        player_name.split(' ')[1]
       end
     end
   end

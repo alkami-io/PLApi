@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 2019_01_04_042141) do
 
   create_table "api_football_fixture_events", force: :cascade do |t|
     t.integer "fixture_id"
-    t.integer "elasped"
+    t.integer "elapsed"
     t.string "team_name"
     t.string "player_first_name"
     t.string "player_last_name"
