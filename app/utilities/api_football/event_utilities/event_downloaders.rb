@@ -3,7 +3,7 @@ require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module ApiFootball
   module EventUtility
-    class Events
+    class EventDownloaders
       attr_reader :api_connection
 
       def initialize
@@ -17,7 +17,7 @@ module ApiFootball
           wod: wod,
           response: api_connection.connection.get("events/#{fixture_id}"),
           directory: "epl_data/api_football/events_by_fixture",
-          filename: "events_by_fixture_#{fixture_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+          filename: "#{fixture_id}_#{DateTime.current.strftime("%C%y-%m-%d")}"
         }
 
         CoreUtility::DataToJSON.write_or_display_data(options)

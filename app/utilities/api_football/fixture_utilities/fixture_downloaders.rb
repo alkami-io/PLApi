@@ -3,7 +3,7 @@ require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module ApiFootball
   module FixtureUtility
-    class Fixtures
+    class FixtureDownloaders
       attr_reader :api_connection
 
       def initialize

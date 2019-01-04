@@ -1,0 +1,2 @@
+class ApiFootballFixtureEvent < ApplicationRecord
+end
