@@ -9,7 +9,9 @@ require "#{Rails.root}/app/utilities/api_football/event_utilities/event_download
 require "#{Rails.root}/app/utilities/api_football/event_utilities/event_injectors.rb"
 require "#{Rails.root}/app/utilities/api_football/event_utilities/event_parsers.rb"
 
-require "#{Rails.root}/app/utilities/api_football/fixture_utility.rb"
+require "#{Rails.root}/app/utilities/api_football/fixture_utilities/fixture_downloaders.rb"
+require "#{Rails.root}/app/utilities/api_football/fixture_utilities/fixture_injectors.rb"
+require "#{Rails.root}/app/utilities/api_football/fixture_utilities/fixture_parsers.rb"
 \
 require "#{Rails.root}/app/utilities/api_football/league_utilities/league_downloaders.rb"
 require "#{Rails.root}/app/utilities/api_football/league_utilities/league_injectors.rb"

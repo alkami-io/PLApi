@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_01_04_042141) do
+ActiveRecord::Schema.define(version: 2019_01_04_210957) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,6 +23,30 @@ ActiveRecord::Schema.define(version: 2019_01_04_042141) do
     t.string "player_last_name"
     t.string "event_type"
     t.string "event_detail"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "api_football_fixtures", force: :cascade do |t|
+    t.integer "fixture_id"
+    t.string "event_timestamp"
+    t.datetime "event_date"
+    t.integer "league_id"
+    t.string "round"
+    t.integer "home_team_id"
+    t.integer "away_team_id"
+    t.string "home_team"
+    t.string "away_team"
+    t.string "match_status"
+    t.string "match_status_abbr"
+    t.integer "goals_home_team"
+    t.integer "goals_away_team"
+    t.string "halftime_score"
+    t.string "final_score"
+    t.string "penalty"
+    t.integer "elapsed"
+    t.string "first_half_start"
+    t.string "second_half_start"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
