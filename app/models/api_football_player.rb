@@ -1,0 +1,2 @@
+class ApiFootballPlayer < ApplicationRecord
+end

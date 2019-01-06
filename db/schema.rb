@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_01_06_175353) do
+ActiveRecord::Schema.define(version: 2019_01_06_192449) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -74,6 +74,17 @@ ActiveRecord::Schema.define(version: 2019_01_06_175353) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["starting_xi"], name: "index_api_football_lineups_on_starting_xi", using: :gin
+  end
+
+  create_table "api_football_players", force: :cascade do |t|
+    t.integer "team_id"
+    t.integer "number"
+    t.string "player_name"
+    t.string "season"
+    t.jsonb "coaches", default: {}
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["coaches"], name: "index_api_football_players_on_coaches", using: :gin
   end
 
 end
