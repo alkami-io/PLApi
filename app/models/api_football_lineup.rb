@@ -1,0 +1,2 @@
+class ApiFootballLineup < ApplicationRecord
+end
