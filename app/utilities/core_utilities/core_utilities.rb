@@ -17,7 +17,10 @@ require "#{Rails.root}/app/utilities/api_football/league_utilities/league_downlo
 require "#{Rails.root}/app/utilities/api_football/league_utilities/league_injectors.rb"
 require "#{Rails.root}/app/utilities/api_football/league_utilities/league_parsers.rb"
 \
-require "#{Rails.root}/app/utilities/api_football/lineup_utility.rb"
+require "#{Rails.root}/app/utilities/api_football/lineup_utilities/lineup_downloaders.rb"
+require "#{Rails.root}/app/utilities/api_football/lineup_utilities/lineup_injectors.rb"
+require "#{Rails.root}/app/utilities/api_football/lineup_utilities/lineup_parsers.rb"
+
 require "#{Rails.root}/app/utilities/api_football/player_utility.rb"
 require "#{Rails.root}/app/utilities/api_football/season_utility.rb"
 require "#{Rails.root}/app/utilities/api_football/standing_utility.rb"
