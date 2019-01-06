@@ -31,8 +31,14 @@ require "#{Rails.root}/app/utilities/api_football/player_utilities/player_downlo
 require "#{Rails.root}/app/utilities/api_football/player_utilities/player_injectors.rb"
 require "#{Rails.root}/app/utilities/api_football/player_utilities/player_parsers.rb"
 
+# Season Utilities
 require "#{Rails.root}/app/utilities/api_football/season_utility.rb"
-require "#{Rails.root}/app/utilities/api_football/standing_utility.rb"
+
+# Standing Utilities
+require "#{Rails.root}/app/utilities/api_football/standing_utilities/standing_downloaders.rb"
+require "#{Rails.root}/app/utilities/api_football/standing_utilities/standing_injectors.rb"
+require "#{Rails.root}/app/utilities/api_football/standing_utilities/standing_parsers.rb"
+
 require "#{Rails.root}/app/utilities/api_football/stat_utility.rb"
 require "#{Rails.root}/app/utilities/api_football/team_utility.rb"
 
