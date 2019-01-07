@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_01_06_200455) do
+ActiveRecord::Schema.define(version: 2019_01_06_212106) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -102,6 +102,19 @@ ActiveRecord::Schema.define(version: 2019_01_06_200455) do
     t.integer "rank"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "api_football_stats", force: :cascade do |t|
+    t.integer "team_id"
+    t.integer "league_id"
+    t.jsonb "matches", default: {}
+    t.jsonb "goals", default: {}
+    t.jsonb "goals_avg", default: {}
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["goals"], name: "index_api_football_stats_on_goals", using: :gin
+    t.index ["goals_avg"], name: "index_api_football_stats_on_goals_avg", using: :gin
+    t.index ["matches"], name: "index_api_football_stats_on_matches", using: :gin
   end
 
 end

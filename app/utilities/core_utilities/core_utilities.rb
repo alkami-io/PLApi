@@ -39,7 +39,12 @@ require "#{Rails.root}/app/utilities/api_football/standing_utilities/standing_do
 require "#{Rails.root}/app/utilities/api_football/standing_utilities/standing_injectors.rb"
 require "#{Rails.root}/app/utilities/api_football/standing_utilities/standing_parsers.rb"
 
-require "#{Rails.root}/app/utilities/api_football/stat_utility.rb"
+# Stat Utilities
+require "#{Rails.root}/app/utilities/api_football/stat_utilities/stat_downloaders.rb"
+require "#{Rails.root}/app/utilities/api_football/stat_utilities/stat_injectors.rb"
+require "#{Rails.root}/app/utilities/api_football/stat_utilities/stat_parsers.rb"
+
+# Team Utilities
 require "#{Rails.root}/app/utilities/api_football/team_utility.rb"
 
 # FPL Utilities
