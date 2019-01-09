@@ -3,7 +3,7 @@ require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
 
 module ApiFootball
   module StatUtility
-    class Stats
+    class StatDownloaders
       attr_reader :api_connection
 
       def initialize
@@ -21,7 +21,7 @@ module ApiFootball
             wod: wod,
             response: api_connection.connection.get("statistics/#{options[:league_id]}/#{options[:team_id]}"),
             directory: "epl_data/api_football/stats_by_league_team",
-            filename: "statistics_by_league_#{options[:league_id]}_team_#{options[:team_id]}_#{DateTime.current.strftime("%C%y-%m-%d")}"
+            filename: "league_#{options[:league_id]}_team_#{options[:team_id]}_#{DateTime.current.strftime("%C%y-%m-%d")}"
           }
         else
           opts = {

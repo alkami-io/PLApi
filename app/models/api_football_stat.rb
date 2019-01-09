@@ -1,0 +1,2 @@
+class ApiFootballStat < ApplicationRecord
+end
