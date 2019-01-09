@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_01_06_212106) do
+ActiveRecord::Schema.define(version: 2019_01_07_035659) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -115,6 +115,14 @@ ActiveRecord::Schema.define(version: 2019_01_06_212106) do
     t.index ["goals"], name: "index_api_football_stats_on_goals", using: :gin
     t.index ["goals_avg"], name: "index_api_football_stats_on_goals_avg", using: :gin
     t.index ["matches"], name: "index_api_football_stats_on_matches", using: :gin
+  end
+
+  create_table "api_football_teams", force: :cascade do |t|
+    t.integer "team_id"
+    t.string "name"
+    t.string "logo"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end

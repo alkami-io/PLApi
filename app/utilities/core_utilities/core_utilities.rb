@@ -45,7 +45,9 @@ require "#{Rails.root}/app/utilities/api_football/stat_utilities/stat_injectors.
 require "#{Rails.root}/app/utilities/api_football/stat_utilities/stat_parsers.rb"
 
 # Team Utilities
-require "#{Rails.root}/app/utilities/api_football/team_utility.rb"
+require "#{Rails.root}/app/utilities/api_football/team_utilities/team_downloaders.rb"
+require "#{Rails.root}/app/utilities/api_football/team_utilities/team_injectors.rb"
+require "#{Rails.root}/app/utilities/api_football/team_utilities/team_parsers.rb"
 
 # FPL Utilities
 require "#{Rails.root}/app/utilities/fpl/connection_utility.rb"
