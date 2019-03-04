@@ -1,0 +1,2 @@
+class ApiFootballMlsSeason < ApplicationRecord
+end

@@ -59,3 +59,6 @@ require "#{Rails.root}/app/utilities/fpl/game_setting_utility.rb"
 require "#{Rails.root}/app/utilities/fpl/phase_utility.rb"
 require "#{Rails.root}/app/utilities/fpl/region_utility.rb"
 require "#{Rails.root}/app/utilities/fpl/team_utility.rb"
+
+# MLS Utilities
+require "#{Rails.root}/app/utilities/api_football/mls/mls_seasons.rb"
