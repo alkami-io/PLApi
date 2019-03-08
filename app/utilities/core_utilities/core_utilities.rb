@@ -1,6 +1,7 @@
 # Require file for all utilities
 # CoreUtility:DataToJson
 require "#{Rails.root}/app/utilities/core_utilities/data_to_json.rb"
+require "#{Rails.root}/app/utilities/core_utilities/csv_to_json.rb"
 
 # APIFootball Utilities
 # Connection Utilities
